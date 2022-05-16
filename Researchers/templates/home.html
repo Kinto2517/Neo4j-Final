@@ -1,0 +1,28 @@
+{% extends "homelayout.html" %}
+{% block content %}
+
+<div class="h-full" style="width: 940px">
+    <div class="" style="width: 940px; margin-left: -300px">
+        <header class="px-3 py-3 " style="background-color: #525252; width:1500px;">
+            <h2 class="font-semibold text-gray-800" style="color: #17a6ab; font-size: 32px">Araştırma Sayfası</h2>
+        </header>
+        <div class="p-3" style="width: 1420">
+            <div class="overflow-x-auto " style="width: 1420px">
+                <form action={{url_for('genelsonuc')}} method="post" class="overflow-x-auto">
+                    <input style="text-align: center;width:16%;font-family:Helvetica ;border-radius:25px; padding:13px; border:0; box-shadow:0 0 15px 15px rgba(0,0,0,0.06); margin:10px" type="text" name="aadı" placeholder="Araştırmacı Adı Giriniz">
+                    <input style="width:16%;font-family:Helvetica ;border-radius:25px;padding:13px; border:0; box-shadow:0 0 15px 15px rgba(0,0,0,0.06);margin:10px" type="text" name="asoyadı" placeholder="Araştırmacı Soyadı Giriniz">
+                    <input style="text-align: center;width:16%;font-family:Helvetica ;border-radius:25px;padding:13px; border:0; box-shadow:0 0 15px 15px rgba(0,0,0,0.06);margin:10px" type="text" name="yadı" placeholder="Yayın Adı Giriniz">
+                    <input style="text-align: center;width:16%;font-family:Helvetica ;border-radius:25px;padding:13px; border:0; box-shadow:0 0 15px 15px rgba(0,0,0,0.06);margin:10px" type="text" name="yyılı" placeholder="Yayın Yılı Giriniz">
+                    <br>
+                    <input style="background-color: #fff;border-radius: 24px;box-shadow: rgba(0, 0, 0, .2) 0 3px 5px -1px,rgba(0, 0, 0, .14) 0 6px 10px 0,rgba(0, 0, 0, .12) 0 1px 18px 0;box-sizing: border-box;
+  color: #3c4043;cursor: pointer;font-family: Google Sans;font-size: 16px;height: 38px;line-height: normal;max-width: 100%;overflow: visible;padding: 2px 24px;
+  text-align: center;width: 15%;margin: 30px" type="submit" placeholder="Arama" value="Ara">
+
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+{% endblock content %}

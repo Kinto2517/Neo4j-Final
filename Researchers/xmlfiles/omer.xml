@@ -1,0 +1,66 @@
+<dblpperson name="Ömer Yildirim" pid="297/6606" n="3">
+<person key="homepages/297/6606" mdate="2021-07-23">
+<author pid="297/6606">Ömer Yildirim</author>
+</person>
+<r>
+<article key="journals/ijcta/YildirimBSKG21" mdate="2021-08-12">
+<author pid="297/6606">Ömer Yildirim</author>
+<author pid="267/6214">Ibrahim Bozyel</author>
+<author pid="190/9148">Kubra Saka</author>
+<author pid="09/131">Temel Kayikçioglu</author>
+<author orcid="0000-0003-1847-1356" pid="249/2682">Dincer Gokcen</author>
+<title>Polydimethylsiloxane-based capacitive motion sensor and its read-out circuit.</title>
+<pages>2147-2157</pages>
+<year>2021</year>
+<volume>49</volume>
+<journal>Int. J. Circuit Theory Appl.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1002/cta.3009</ee>
+<url>db/journals/ijcta/ijcta49.html#YildirimBSKG21</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/siu/OzcanYK21" mdate="2021-07-23">
+<author pid="202/7411">Zübeyir Özcan</author>
+<author pid="297/6606">Ömer Yildirim</author>
+<author pid="09/131">Temel Kayikçioglu</author>
+<title>BroomyCell: An Introductory Educational Software for Neuroscience.</title>
+<pages>1-4</pages>
+<year>2021</year>
+<booktitle>SIU</booktitle>
+<ee>https://doi.org/10.1109/SIU53274.2021.9477851</ee>
+<crossref>conf/siu/2021</crossref>
+<url>db/conf/siu/siu2021.html#OzcanYK21</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/siu/YildirimK18a" mdate="2021-07-23">
+<author pid="297/6606">Ömer Yildirim</author>
+<author pid="09/131">Temel Kayikçioglu</author>
+<title>Detecting cardiac arrhythmia by using time differences of double wavelength PPG peaks.</title>
+<pages>1-4</pages>
+<year>2018</year>
+<booktitle>SIU</booktitle>
+<ee>https://doi.org/10.1109/SIU.2018.8404846</ee>
+<crossref>conf/siu/2018</crossref>
+<url>db/conf/siu/siu2018.html#YildirimK18a</url>
+</inproceedings>
+</r>
+<coauthors n="5" nc="1">
+<co c="0">
+<na f="b/Bozyel:Ibrahim" pid="267/6214">Ibrahim Bozyel</na>
+</co>
+<co c="0">
+<na f="g/Gokcen:Dincer" pid="249/2682">Dincer Gokcen</na>
+</co>
+<co c="0">
+<na f="k/Kayik=ccedil=ioglu:Temel" pid="09/131">Temel Kayikçioglu</na>
+</co>
+<co c="0">
+<na f="=/=Ouml=zcan:Z=uuml=beyir" pid="202/7411">Zübeyir Özcan</na>
+</co>
+<co c="0">
+<na f="s/Saka:Kubra" pid="190/9148">Kubra Saka</na>
+</co>
+</coauthors>
+</dblpperson>

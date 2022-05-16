@@ -1,0 +1,52 @@
+{% extends "homelayout.html" %}
+{% block content %}
+
+<div class="h-full" style="width: 940px">
+    <div class="" style="width: 940px; margin-left: -300px">
+        <header class="px-3 py-3 " style="background-color: #525252; width:1500px;">
+            <h2 class="font-semibold text-gray-800" style="color: #17a6ab; font-size: 32px">Araştırma Sayfası</h2>
+        </header>
+        <div class="p-3" style="width: 940px">
+            <div class="overflow-x-auto" style="width: 940px">
+                <table style="table-layout: fixed;width: 1485px;border-collapse: separate;
+  border-spacing: 5px 7px;">
+                    <tr style="background-color: #54585d;
+	            color: #ffffff;
+	            font-weight: bold;
+                font-size: 13px;
+	            border: 1px solid #54585d;">
+                        <th >Araştırmacı Adı</th>
+                        <th >Araştırmacı Soyadı</th>
+
+                        <th>Yayın Adı</th>
+                        <th>Yayın Yılı</th>
+
+                        <th>Tür Adı</th>
+                        <th>Yayın Yeri</th>
+                        <th>Grafiğe Git</th>
+                    </tr>
+                    {%for i in range(count)%}
+                    <tr style="background-color: #dddddd;padding-bottom:1em">
+                        <td > {{r1[i]}}</td>
+                        <td > {{r2[i]}}</td>
+
+                        <td > {{r3[i]}}</td>
+                        <td > {{r4[i]}}</td>
+
+                        <td > {{r5[i]}}</td>
+                        <td rowspan = "1"> {{r6[i]}}</td>
+                        <td><button> <a target="_blank" href="/researchers/{{r1[i]}}/{{r2[i]}}">Grafiğe Git</a></button>
+</td>
+                    </tr>
+                    {% endfor %}
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+{% endblock content %}
+<h1>Arama Sonucu</h1>
+
+

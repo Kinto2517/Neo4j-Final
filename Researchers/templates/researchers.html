@@ -1,0 +1,390 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='main.css') }}">
+
+
+
+    {% if title %}
+    <title>Koü - {{ title }}</title>
+    {% else %}
+    <title>Koü Yazlab</title>
+    {% endif %}
+    <style type="text/css">
+        html, body {
+            font: 16pt arial;
+        }
+        h2{
+        margin-left: 240px;
+        width: 500px;
+        background: #525252;
+        color: lightgray
+        }
+        #viz {
+            width: 1000px;
+            height: 500px;
+            border: 3px solid lightgray;
+            font: 180pt arial;
+        }
+
+        #viz2 {
+            width: 1000px;
+            height: 500px;
+            border: 3px solid lightgray;
+            font: 18pt arial;
+        }
+
+
+
+    </style>
+
+    <script src="https://cdn.rawgit.com/neo4j-contrib/neovis.js/master/dist/neovis.js"></script>
+
+    <script type="text/javascript">
+
+    function checkFileExist(urlToFile) {
+    var xhr = new XMLHttpRequest();
+    xhr.open('HEAD', urlToFile, false);
+    xhr.send();
+
+    if (xhr.status == "404") {
+        return false;
+    } else {
+        return true;
+    }
+}
+		// define config car
+		// instantiate nodevis object
+		// draw
+
+		var viz;
+		var viz2;
+
+		function draw() {
+			var config = {
+				container_id: "viz",
+				server_url: "neo4j://24ab16aa.databases.neo4j.io",
+				server_user: "neo4j",
+				server_password: "G6tmsnc3xhwupcL5RwPq7tRXBpB5wgUnyWR3ch4Tfws",
+				labels: {
+					"Araştırmacı": {
+						"caption": 'aadı',
+						"size": "pagerank",
+                        "community": "community",
+                         "image": '{{ url_for('static', filename='default.png') }}',
+                        "font": {
+                        "size":23,
+                        "color":"#000000"},
+
+					}
+				},
+				relationships: {
+					"ORTAK_ÇALIŞIR": {
+						"caption": true,
+						"thickness": "weight",
+					}
+				},
+
+				initial_cypher: "MATCH (n:Araştırmacı {aadı:'{{name}}', asoyadı:'{{lname}}'})-[r:ORTAK_ÇALIŞIR]->(m) RETURN *  "
+			};
+
+			viz = new window.NeoVis.default(config);
+			viz.render();
+			console.log(viz);
+
+		}
+
+		function draw2() {
+
+            function testImage(URL) {
+            var tester=new Image();
+            tester.onload=imageFound;
+            tester.onerror=imageNotFound;
+            tester.src=URL;
+            console.log(tester);
+        }
+
+        function imageFound() {
+
+            var config = {
+				container_id: "viz2",
+				server_url: "neo4j://24ab16aa.databases.neo4j.io",
+				server_user: "neo4j",
+                    server_password: "G6tmsnc3xhwupcL5RwPq7tRXBpB5wgUnyWR3ch4Tfws",
+				labels: {
+					"Araştırmacı": {
+						"caption": 'aadı',
+						"size": "pagerank",
+                        "community": "community",
+                         "image": '{{ url_for('static', filename=''+name+lname+'.jpg') }}',
+                        "font": {
+                        "size":32,
+                        "color":"#000000"
+                      },
+                    shadow:{
+      enabled: false,
+      color: 'rgba(0,0,0,0.5)',
+      size:10,
+      x:5,
+      y:5
+    },
+
+					},
+					"Yayınlar":{
+					"caption":'yyılı',
+					"font": {
+                        "size":28,
+                        "color":"#000000"
+                      },
+					},
+					"Türler":{
+					"font": {
+                        "size":34,
+                        "color":"#000000"
+                      },
+					"caption":'tyeri',
+					}
+
+				},
+
+				relationships: {
+					"YAYINLAR": {
+                        "thickness": "weight",
+						"caption": true,
+
+					},
+					"YAYINLANIR":{
+					"thickness": "weight",
+					"caption":true
+
+					}
+				},
+				arrows:true,
+				initial_cypher: "MATCH (n:Araştırmacı {aadı:'{{name}}', asoyadı:'{{lname}}'})-[r:YAYINLAR]->(m)-[t:YAYINLANIR]->(f) RETURN * "
+			};
+
+			viz2 = new window.NeoVis.default(config);
+			viz2.render();
+
+        }
+
+        function imageNotFound() {
+
+            var config = {
+				container_id: "viz2",
+				server_url: "neo4j://24ab16aa.databases.neo4j.io",
+				server_user: "neo4j",
+                    server_password: "G6tmsnc3xhwupcL5RwPq7tRXBpB5wgUnyWR3ch4Tfws",
+				labels: {
+					"Araştırmacı": {
+						"caption": 'aadı',
+						"size": "pagerank",
+                        "community": "community",
+                         "image": '{{ url_for('static', filename='profile.png') }}',
+                        "font": {
+                        "size":32,
+                        "color":"#000000"
+                      },
+                    shadow:{
+      enabled: false,
+      color: 'rgba(0,0,0,0.5)',
+      size:10,
+      x:5,
+      y:5
+    },
+
+					},
+					"Yayınlar":{
+					"caption":'yyılı',
+					"font": {
+                        "size":28,
+                        "color":"#000000"
+                      },
+					},
+					"Türler":{
+					"font": {
+                        "size":34,
+                        "color":"#000000"
+                      },
+					"caption":'tyeri',
+					}
+
+				},
+
+				relationships: {
+					"YAYINLAR": {
+                        "thickness": "weight",
+						"caption": true,
+
+					},
+					"YAYINLANIR":{
+					"thickness": "weight",
+					"caption":true
+
+					}
+				},
+				arrows:true,
+				initial_cypher: "MATCH (n:Araştırmacı {aadı:'{{name}}', asoyadı:'{{lname}}'})-[r:YAYINLAR]->(m)-[t:YAYINLANIR]->(f) RETURN * "
+			};
+
+			viz2 = new window.NeoVis.default(config);
+			viz2.render();
+        }
+        testImage('{{ url_for('static', filename=''+name+lname+'.jpg') }}');
+
+
+<!--
+			var config = {
+				container_id: "viz2",
+				server_url: "neo4j://24ab16aa.databases.neo4j.io",
+				server_user: "neo4j",
+                    server_password: "G6tmsnc3xhwupcL5RwPq7tRXBpB5wgUnyWR3ch4Tfws",
+				labels: {
+					"Araştırmacı": {
+						"caption": 'aadı',
+						"size": "pagerank",
+                        "community": "community",
+                        {%if (url_for('static', filename=''+name+lname+'.jpg')) %}
+                         "image": '{{ url_for('static', filename=''+name+lname+'.jpg') }}',
+                        {%endif%}
+                        "font": {
+                        "size":32,
+                        "color":"#000000"
+                      },
+                    shadow:{
+      enabled: false,
+      color: 'rgba(0,0,0,0.5)',
+      size:10,
+      x:5,
+      y:5
+    },
+
+					},
+					"Yayınlar":{
+					"caption":'yyılı',
+					"font": {
+                        "size":28,
+                        "color":"#000000"
+                      },
+					},
+					"Türler":{
+					"font": {
+                        "size":34,
+                        "color":"#000000"
+                      },
+					"caption":'tyeri',
+					}
+
+				},
+
+				relationships: {
+					"YAYINLAR": {
+                        "thickness": "weight",
+						"caption": true,
+
+					},
+					"YAYINLANIR":{
+					"thickness": "weight",
+					"caption":true
+
+					}
+				},
+				arrows:true,
+				initial_cypher: "MATCH (n:Araştırmacı {aadı:'{{name}}', asoyadı:'{{lname}}'})-[r:YAYINLAR]->(m)-[t:YAYINLANIR]->(f) RETURN * "
+			};
+
+			viz2 = new window.NeoVis.default(config);
+			viz2.render();
+			-->
+
+
+
+
+			console.log(viz2);
+			viz.registerOnEvent("completed", (e)=>{
+                viz["_network"].on("click", (event)=>{
+                    var  a = viz["_nodes"][event.nodes[0]]['raw']['properties']['aadı']
+                    var b = viz["_nodes"][event.nodes[0]]['raw']['properties']['asoyadı']
+                    window.open("http://127.0.0.1:5000/researchers/"+a+"/"+b+"", '_blank').focus();
+                  });
+               }) ;
+
+		}
+
+
+
+
+    </script>
+</head>
+<body onload="draw();draw2()">
+<header class="site-header">
+    <nav class="navbar navbar-expand-md navbar-dark bg-steel fixed-top">
+        <div class="container">
+            <a class="navbar-brand mr-4" href="/">Koü Yazlab 3</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggle"
+                    aria-controls="navbarToggle" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarToggle">
+                <div class="navbar-nav mr-auto">
+                    <a class="nav-item nav-link" href="{{ url_for('home') }}">Arama Sayfası</a>
+                    <a class="nav-item nav-link" href="{{ url_for('about') }}">Hakkında</a>
+                </div>
+                <div class="navbar-nav mr-auto">
+
+                </div>
+
+                <div class="navbar-nav">
+                    {% if current_user.is_authenticated %}
+                    <a class="nav-item nav-link" href="{{ url_for('account') }}">Hesap</a>
+                    <a class="nav-item nav-link" href="{{ url_for('logout') }}">Çıkış</a>
+                    {% else %}
+                    <a style="background-color: cadetblue" class="nav-item nav-link"
+                       href="{{ url_for('adminlogin') }}">Admin Girişi</a>
+                    <a class="nav-item nav-link" href="{{ url_for('login') }}">Giriş</a>
+                    <a class="nav-item nav-link" href="{{ url_for('register') }}">Kayıt Ol</a>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+<main role="main" class="container" style="height: 1200px; width: 940px">
+    <div class="row" style="width: 940px">
+        <div class="col-md-8" style="width: 940px">
+            <br>
+            <h2 >{{name}} {{lname}} Yazarının Ortak Çalıştığı Kişiler</h2>
+            <div id="viz"></div>
+            <br>
+
+            <h2 >{{name}} {{lname}} Yazarının Yayınladıkları</h2>
+
+            <div id="viz2"></div>
+
+
+            {% block content %}{% endblock %}
+        </div>
+
+
+    </div>
+</main>
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>

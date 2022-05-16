@@ -1,0 +1,120 @@
+{% extends "neodblayout.html" %}
+{% block content %}
+<div class="content-section">
+    <form method="POST" action="">
+        {{ form.hidden_tag() }}
+        <fieldset class="form-group">
+            <legend class="border-bottom mb-4">Neo4j'e Data Ekleyin</legend>
+
+            <div class="form-group">
+                {{ form.aid.label(class="form-control-label") }}
+                {% if form.aid.errors %}
+                {{ form.aid(class="form-control form-control-lg is-invalid") }}
+                <div class="invalid-feedback">
+                    {% for error in form.aid.errors %}
+                    <span>{{ error }}</span>
+                    {% endfor %}
+                </div>
+                {% else %}
+                {{ form.aid(class="form-control form-control-lg") }}
+                {% endif %}
+            </div>
+
+            <div class="form-group">
+                {{ form.aadı.label(class="form-control-label") }}
+                {% if form.aadı.errors %}
+                {{ form.aadı(class="form-control form-control-lg is-invalid") }}
+                <div class="invalid-feedback">
+                    {% for error in form.aadı.errors %}
+                    <span>{{ error }}</span>
+                    {% endfor %}
+                </div>
+                {% else %}
+                {{ form.aadı(class="form-control form-control-lg") }}
+                {% endif %}
+            </div>
+
+            <div class="form-group">
+                {{ form.asoyadı.label(class="form-control-label") }}
+                {% if form.asoyadı.errors %}
+                {{ form.asoyadı(class="form-control form-control-lg is-invalid") }}
+                <div class="invalid-feedback">
+                    {% for error in form.asoyadı.errors %}
+                    <span>{{ error }}</span>
+                    {% endfor %}
+                </div>
+                {% else %}
+                {{ form.asoyadı(class="form-control form-control-lg") }}
+                {% endif %}
+            </div>
+
+            <div class="form-group">
+                {{ form.yadı.label(class="form-control-label") }}
+                {% if form.yadı.errors %}
+                {{ form.yadı(class="form-control form-control-lg is-invalid") }}
+                <div class="invalid-feedback">
+                    {% for error in form.yadı.errors %}
+                    <span>{{ error }}</span>
+                    {% endfor %}
+                </div>
+                {% else %}
+                {{ form.yadı(class="form-control form-control-lg") }}
+                {% endif %}
+            </div>
+
+            <div class="form-group">
+                {{ form.yyılı.label(class="form-control-label") }}
+                {% if form.yyılı.errors %}
+                {{ form.yyılı(class="form-control form-control-lg is-invalid") }}
+                <div class="invalid-feedback">
+                    {% for error in form.yyılı.errors %}
+                    <span>{{ error }}</span>
+                    {% endfor %}
+                </div>
+                {% else %}
+                {{ form.yyılı(class="form-control form-control-lg") }}
+                {% endif %}
+            </div>
+
+            <div class="form-group">
+                {{ form.tadı.label(class="form-control-label") }}
+                {% if form.tadı.errors %}
+                {{ form.tadı(class="form-control form-control-lg is-invalid") }}
+                <div class="invalid-feedback">
+                    {% for error in form.tadı.errors %}
+                    <span>{{ error }}</span>
+                    {% endfor %}
+                </div>
+                {% else %}
+                {{ form.tadı(class="form-control form-control-lg") }}
+                {% endif %}
+            </div>
+
+            <div class="form-group">
+                {{ form.tyeri.label(class="form-control-label") }}
+                {% if form.tyeri.errors %}
+                {{ form.tyeri(class="form-control form-control-lg is-invalid") }}
+                <div class="invalid-feedback">
+                    {% for error in form.tyeri.errors %}
+                    <span>{{ error }}</span>
+                    {% endfor %}
+                </div>
+                {% else %}
+                {{ form.tyeri(class="form-control form-control-lg") }}
+                {% endif %}
+            </div>
+            {% if error %}
+            <p class=error><strong>Hata:</strong> {{ error }}
+                {% endif %}
+
+        </fieldset>
+
+        <div class="form-group">
+            {{ form.submit(class="btn btn-outline-info") }}
+        </div>
+
+    </form>
+</div>
+
+
+{% endblock content %}

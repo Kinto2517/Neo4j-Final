@@ -1,0 +1,798 @@
+<dblpperson name="Cemal Köse" pid="53/7041" n="48">
+    <person key="homepages/53/7041" mdate="2009-06-10">
+        <author pid="53/7041">Cemal Köse</author>
+    </person>
+    <r>
+        <article key="journals/symmetry/AlizadehJNK21" mdate="2021-03-23">
+            <author pid="287/0337">Sayyad Alizadeh</author>
+            <author orcid="0000-0002-8418-805X" pid="158/1750">Hossein Barghi Jond</author>
+            <author pid="93/1775">Vasif V. Nabiyev</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <title>Automatic Retrieval of Shoeprints Using Modified Multi-Block Local Binary Pattern.</title>
+            <pages>296</pages>
+            <year>2021</year>
+            <volume>13</volume>
+            <journal>Symmetry</journal>
+            <number>2</number>
+            <ee type="oa">https://doi.org/10.3390/sym13020296</ee>
+            <url>db/journals/symmetry/symmetry13.html#AlizadehJNK21</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/cee/KayikciogluAKK20" mdate="2020-11-11">
+            <author pid="190/9103">Ilknur Kayikçioglu</author>
+            <author pid="190/9072">Fulya Akdeniz</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Time-frequency approach to ECG classification of myocardial infarction.</title>
+            <pages>106621</pages>
+            <year>2020</year>
+            <volume>84</volume>
+            <journal>Comput. Electr. Eng.</journal>
+            <ee>https://doi.org/10.1016/j.compeleceng.2020.106621</ee>
+            <url>db/journals/cee/cee84.html#KayikciogluAKK20</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/mbec/HatipogluYK20" mdate="2020-05-30">
+            <author pid="202/7131">Bahar Hatipoglu</author>
+            <author pid="158/1889">Cagatay Murat Yilmaz</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <title>Diversity in a signal-to-image transformation approach for EEG-based motor imagery task
+                classification.
+            </title>
+            <pages>443-459</pages>
+            <year>2020</year>
+            <volume>58</volume>
+            <journal>Medical Biol. Eng. Comput.</journal>
+            <number>2</number>
+            <ee>https://doi.org/10.1007/s11517-019-02075-x</ee>
+            <ee>https://www.wikidata.org/entity/Q92165241</ee>
+            <url>db/journals/mbec/mbec58.html#HatipogluYK20</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/mta/AymazKA20" mdate="2020-05-27">
+            <author pid="208/1283">Samet Aymaz</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <author pid="190/9155">Seyma Aymaz</author>
+            <title>Multi-focus image fusion for different datasets with super-resolution using gradient-based new fusion
+                rule.
+            </title>
+            <pages>13311-13350</pages>
+            <year>2020</year>
+            <volume>79</volume>
+            <journal>Multim. Tools Appl.</journal>
+            <number>19-20</number>
+            <ee>https://doi.org/10.1007/s11042-020-08670-7</ee>
+            <url>db/journals/mta/mta79.html#AymazKA20</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/mta/BozkurtKS20" mdate="2020-10-26">
+            <author orcid="0000-0003-0088-5825" pid="209/6239">Ferhat Bozkurt</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <author pid="209/6231">Ahmet Sari</author>
+            <title>A texture-based 3D region growing approach for segmentation of ICA through the skull base in CTA.
+            </title>
+            <pages>33253-33278</pages>
+            <year>2020</year>
+            <volume>79</volume>
+            <journal>Multim. Tools Appl.</journal>
+            <number>43-44</number>
+            <ee>https://doi.org/10.1007/s11042-020-09690-z</ee>
+            <url>db/journals/mta/mta79.html#BozkurtKS20</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/inffus/AymazK19" mdate="2020-02-20">
+            <author pid="208/1283">Samet Aymaz</author>
+            <author orcid="0000-0002-5982-4771" pid="53/7041">Cemal Köse</author>
+            <title>A novel image decomposition-based hybrid technique with super-resolution method for multi-focus image
+                fusion.
+            </title>
+            <pages>113-127</pages>
+            <year>2019</year>
+            <volume>45</volume>
+            <journal>Inf. Fusion</journal>
+            <ee>https://doi.org/10.1016/j.inffus.2018.01.015</ee>
+            <url>db/journals/inffus/inffus45.html#AymazK19</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/sivp/HatipogluYK19" mdate="2020-09-06">
+            <author pid="202/7131">Bahar Hatipoglu</author>
+            <author pid="158/1889">Cagatay Murat Yilmaz</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <title>A signal-to-image transformation approach for EEG and MEG signal classification.</title>
+            <pages>483-490</pages>
+            <year>2019</year>
+            <volume>13</volume>
+            <journal>Signal Image Video Process.</journal>
+            <number>3</number>
+            <ee>https://doi.org/10.1007/s11760-018-1373-y</ee>
+            <url>db/journals/sivp/sivp13.html#HatipogluYK19</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/vc/AgahianNK19" mdate="2020-06-04">
+            <author orcid="0000-0003-2462-6166" pid="238/7646">Saeid Agahian</author>
+            <author pid="130/6251">Farhood Negin</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <title>Improving bag-of-poses with semi-temporal pose descriptors for skeleton-based action recognition.
+            </title>
+            <pages>591-607</pages>
+            <year>2019</year>
+            <volume>35</volume>
+            <journal>Vis. Comput.</journal>
+            <number>4</number>
+            <ee>https://doi.org/10.1007/s00371-018-1489-7</ee>
+            <url>db/journals/vc/vc35.html#AgahianNK19</url>
+        </article>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/OnayK19" mdate="2019-08-29">
+            <author pid="158/1084">Funda Kutlu Onay</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <title>Power Spectral Density Analysis in Alfa, Beta and Gamma Frequency Bands for Classification of Motor
+                EEG Signals.
+            </title>
+            <pages>1-4</pages>
+            <year>2019</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2019.8806385</ee>
+            <crossref>conf/siu/2019</crossref>
+            <url>db/conf/siu/siu2019.html#OnayK19</url>
+        </inproceedings>
+    </r>
+    <r>
+        <article key="journals/asc/YelghiK18" mdate="2018-01-05">
+            <author pid="211/9715">Aref Yelghi</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <title>A modified firefly algorithm for global minimum optimization.</title>
+            <pages>29-44</pages>
+            <year>2018</year>
+            <volume>62</volume>
+            <journal>Appl. Soft Comput.</journal>
+            <ee>https://doi.org/10.1016/j.asoc.2017.10.032</ee>
+            <url>db/journals/asc/asc62.html#YelghiK18</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/cmpb/YilmazKH18" mdate="2020-05-30">
+            <author orcid="0000-0002-6513-7337" pid="158/1889">Cagatay Murat Yilmaz</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <author pid="202/7131">Bahar Hatipoglu</author>
+            <title>A Quasi-probabilistic distribution model for EEG Signal classification by using 2-D signal
+                representation.
+            </title>
+            <pages>187-196</pages>
+            <year>2018</year>
+            <volume>162</volume>
+            <journal>Comput. Methods Programs Biomed.</journal>
+            <ee>https://doi.org/10.1016/j.cmpb.2018.05.026</ee>
+            <ee>https://www.wikidata.org/entity/Q89106544</ee>
+            <url>db/journals/cmpb/cmpb162.html#YilmazKH18</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/eswa/BozkurtKS18" mdate="2018-11-30">
+            <author orcid="0000-0003-0088-5825" pid="209/6239">Ferhat Bozkurt</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <author pid="209/6231">Ahmet Sari</author>
+            <title>An inverse approach for automatic segmentation of carotid and vertebral arteries in CTA.</title>
+            <pages>358-375</pages>
+            <year>2018</year>
+            <volume>93</volume>
+            <journal>Expert Syst. Appl.</journal>
+            <ee>https://doi.org/10.1016/j.eswa.2017.10.041</ee>
+            <url>db/journals/eswa/eswa93.html#BozkurtKS18</url>
+        </article>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/HatipogluYKA18" mdate="2018-08-26">
+            <author pid="202/7131">Bahar Hatipoglu</author>
+            <author pid="158/1889">Cagatay Murat Yilmaz</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <author pid="13/8460">Onder Aydemir</author>
+            <title>Classification of wrist movements in different directions based on MEG signals.</title>
+            <pages>1-4</pages>
+            <year>2018</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2018.8404268</ee>
+            <crossref>conf/siu/2018</crossref>
+            <url>db/conf/siu/siu2018.html#HatipogluYKA18</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/KayikciogluKK18" mdate="2018-08-26">
+            <author pid="190/9103">Ilknur Kayikçioglu</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>ECG ST segment change detection using Born-Jordan Time-Frequency Transform and Artificial Neural
+                Networks.
+            </title>
+            <pages>1-4</pages>
+            <year>2018</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2018.8404266</ee>
+            <crossref>conf/siu/2018</crossref>
+            <url>db/conf/siu/siu2018.html#KayikciogluKK18</url>
+        </inproceedings>
+    </r>
+    <r>
+        <article key="journals/sensors/YaganogluKK17" mdate="2018-11-14">
+            <author orcid="0000-0003-3045-169X" pid="209/9354">Mete Yaganoglu</author>
+            <author pid="209/9387">Murat Kayabekir</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <title>SNORAP: A Device for the Correction of Impaired Sleep Health by Using Tactile Stimulation for
+                Individuals with Mild and Moderate Sleep Disordered Breathing.
+            </title>
+            <pages>2006</pages>
+            <year>2017</year>
+            <volume>17</volume>
+            <journal>Sensors</journal>
+            <number>9</number>
+            <ee type="oa">https://doi.org/10.3390/s17092006</ee>
+            <ee>https://www.wikidata.org/entity/Q42366975</ee>
+            <url>db/journals/sensors/sensors17.html#YaganogluKK17</url>
+        </article>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/HatipogluYK17" mdate="2017-07-11">
+            <author pid="202/7131">Bahar Hatipoglu</author>
+            <author pid="158/1889">Cagatay Murat Yilmaz</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <title>A comparison of two appearance based methods for gender recognition.</title>
+            <pages>1-4</pages>
+            <year>2017</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2017.7960398</ee>
+            <crossref>conf/siu/2017</crossref>
+            <url>db/conf/siu/siu2017.html#HatipogluYK17</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/YilmazK17" mdate="2017-07-12">
+            <author pid="158/1889">Cagatay Murat Yilmaz</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <title>A new appearance based and user independent eye state detection method using eigeneyes.</title>
+            <pages>1-4</pages>
+            <year>2017</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2017.7960267</ee>
+            <crossref>conf/siu/2017</crossref>
+            <url>db/conf/siu/siu2017.html#YilmazK17</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/YavuzK16" mdate="2017-11-08">
+            <author pid="20/9502">Zafer Yavuz</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <title>Retinal fundus image registration using bifurcation and crossover points.</title>
+            <pages>1485-1488</pages>
+            <year>2016</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2016.7496032</ee>
+            <crossref>conf/siu/2016</crossref>
+            <url>db/conf/siu/siu2016.html#YavuzK16</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/tsp/YilmazK16" mdate="2017-05-21">
+            <author pid="158/1889">Cagatay Murat Yilmaz</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <title>Local Binary Pattern Histogram features for on-screen eye-gaze direction estimation and a comparison
+                of appearance based methods.
+            </title>
+            <pages>693-696</pages>
+            <year>2016</year>
+            <booktitle>TSP</booktitle>
+            <ee>https://doi.org/10.1109/TSP.2016.7760973</ee>
+            <crossref>conf/tsp/2016</crossref>
+            <url>db/conf/tsp/tsp2016.html#YilmazK16</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/YavuzK15" mdate="2020-03-27">
+            <author orcid="0000-0002-8427-066X" pid="20/9502">Zafer Yavuz</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <title>Vessel segmentation in retinal images using multiscale image enhancement and clustering.</title>
+            <pages>581-584</pages>
+            <year>2015</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2015.7129891</ee>
+            <crossref>conf/siu/2015</crossref>
+            <url>db/conf/siu/siu2015.html#YavuzK15</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/YilmazK15" mdate="2020-02-09">
+            <author pid="158/1889">Cagatay Murat Yilmaz</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <title>Eye gaze direction detection using Principal Component Analysis and appearance based methods.</title>
+            <pages>1050-1053</pages>
+            <year>2015</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2015.7130013</ee>
+            <crossref>conf/siu/2015</crossref>
+            <url>db/conf/siu/siu2015.html#YilmazK15</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/DoganDK15" mdate="2020-02-09">
+            <author pid="158/1778">Ramazan Ozgur Dogan</author>
+            <author pid="126/9533">Hulya Dogan</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <title>Virtual mouse control with hand gesture information extraction and tracking.</title>
+            <pages>1893-1896</pages>
+            <year>2015</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2015.7130228</ee>
+            <crossref>conf/siu/2015</crossref>
+            <url>db/conf/siu/siu2015.html#DoganDK15</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/YavuzK14" mdate="2017-06-05">
+            <author orcid="0000-0002-8427-066X" pid="20/9502">Zafer Yavuz</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <title>Blood vessel segmentation from retinal images based on enhencement methods.</title>
+            <pages>907-910</pages>
+            <year>2014</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2014.6830377</ee>
+            <crossref>conf/siu/2014</crossref>
+            <url>db/conf/siu/siu2014.html#YavuzK14</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/KutluK14" mdate="2017-05-24">
+            <author pid="158/1084">Funda Kutlu</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <title>Detection of epileptic seizure from EEG signals by using recurrence quantification analysis.</title>
+            <pages>1387-1390</pages>
+            <year>2014</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2014.6830497</ee>
+            <crossref>conf/siu/2014</crossref>
+            <url>db/conf/siu/siu2014.html#KutluK14</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/YilmazK14" mdate="2017-05-24">
+            <author pid="158/1889">Cagatay Murat Yilmaz</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <title>Computer control and interaction using eye gaze direction detection.</title>
+            <pages>1658-1661</pages>
+            <year>2014</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2014.6830565</ee>
+            <crossref>conf/siu/2014</crossref>
+            <url>db/conf/siu/siu2014.html#YilmazK14</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/DoganK14" mdate="2017-05-24">
+            <author pid="158/1778">Ramazan Ozgur Dogan</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <title>Computer monitoring and control with hand movements.</title>
+            <pages>2110-2113</pages>
+            <year>2014</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2014.6830678</ee>
+            <crossref>conf/siu/2014</crossref>
+            <url>db/conf/siu/siu2014.html#DoganK14</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/OzenK14" mdate="2017-05-24">
+            <author pid="158/1827">Yusuf Ozen</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <title>Segmentation of lung CT images with random walk algorithm.</title>
+            <pages>2206-2208</pages>
+            <year>2014</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2014.6830702</ee>
+            <crossref>conf/siu/2014</crossref>
+            <url>db/conf/siu/siu2014.html#OzenK14</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/KutluK13" mdate="2017-05-24">
+            <author pid="158/1084">Funda Kutlu</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <title>Epileptic seizure detection from ECoG signals acquired with experimental epilepsy.</title>
+            <pages>1-4</pages>
+            <year>2013</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2013.6531296</ee>
+            <crossref>conf/siu/2013</crossref>
+            <url>db/conf/siu/siu2013.html#KutluK13</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/TalebiK13" mdate="2017-05-24">
+            <author pid="158/1229">Masoud Talebi</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <title>Identifying gender, age and Education level by analyzing comments on Facebook.</title>
+            <pages>1-4</pages>
+            <year>2013</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2013.6531599</ee>
+            <crossref>conf/siu/2013</crossref>
+            <url>db/conf/siu/siu2013.html#TalebiK13</url>
+        </inproceedings>
+    </r>
+    <r>
+        <article key="journals/cmpb/KoseSIE12" mdate="2021-10-14">
+            <author pid="53/7041">Cemal Köse</author>
+            <author pid="84/7409">Ugur Sevik</author>
+            <author orcid="0000-0001-9298-7057" pid="15/1281">Cevat Ikibas</author>
+            <author orcid="0000-0003-3176-230X" pid="116/6522">Hidayet Erdöl</author>
+            <title>Simple methods for segmentation and measurement of diabetic retinopathy lesions in retinal fundus
+                images.
+            </title>
+            <pages>274-293</pages>
+            <year>2012</year>
+            <volume>107</volume>
+            <journal>Comput. Methods Programs Biomed.</journal>
+            <number>2</number>
+            <ee>https://doi.org/10.1016/j.cmpb.2011.06.007</ee>
+            <ee>https://www.wikidata.org/entity/Q43429203</ee>
+            <url>db/journals/cmpb/cmpb107.html#KoseSIE12</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/eswa/KoseI11" mdate="2019-10-19">
+            <author pid="53/7041">Cemal Köse</author>
+            <author orcid="0000-0001-9298-7057" pid="15/1281">Cevat Ikibas</author>
+            <title>A personal identification system using retinal vasculature in retinal fundus images.</title>
+            <pages>13670-13681</pages>
+            <year>2011</year>
+            <volume>38</volume>
+            <journal>Expert Syst. Appl.</journal>
+            <number>11</number>
+            <ee>https://doi.org/10.1016/j.eswa.2011.04.141</ee>
+            <url>db/journals/eswa/eswa38.html#KoseI11</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/eswa/OzyurtK10" mdate="2017-05-26">
+            <author pid="53/2367">Özcan Özyurt</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <title>Chat mining: Automatically determination of chat conversations topic in Turkish text based chat
+                mediums.
+            </title>
+            <pages>8705-8710</pages>
+            <year>2010</year>
+            <volume>37</volume>
+            <journal>Expert Syst. Appl.</journal>
+            <number>12</number>
+            <ee>https://doi.org/10.1016/j.eswa.2010.06.053</ee>
+            <url>db/journals/eswa/eswa37.html#OzyurtK10</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/jms/KoseSGIK10" mdate="2020-06-08">
+            <author pid="53/7041">Cemal Köse</author>
+            <author pid="84/7409">Ugur Sevik</author>
+            <author pid="17/7410">Okyay Gençalioglu</author>
+            <author orcid="0000-0001-9298-7057" pid="15/1281">Cevat Ikibas</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>A Statistical Segmentation Method for Measuring Age-Related Macular Degeneration in Retinal Fundus
+                Images.
+            </title>
+            <pages>1-13</pages>
+            <year>2010</year>
+            <volume>34</volume>
+            <journal>J. Medical Syst.</journal>
+            <number>1</number>
+            <ee>https://doi.org/10.1007/s10916-008-9210-4</ee>
+            <ee>https://www.wikidata.org/entity/Q43146396</ee>
+            <url>db/journals/jms/jms34.html#KoseSGIK10</url>
+        </article>
+    </r>
+    <r>
+        <inproceedings key="conf/biostec/YavuzIK10" mdate="2011-04-29">
+            <author pid="20/9502">Zafer Yavuz</author>
+            <author pid="15/1281">Cevat Ikibas</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <title>A Simple Analytic Approach for Tracking Retinal Vessels and Measuring their Diameters.</title>
+            <pages>13-18</pages>
+            <year>2010</year>
+            <booktitle>BIOINFORMATICS</booktitle>
+            <crossref>conf/biostec/2010bi</crossref>
+            <url>db/conf/biostec/bioinformatics2010.html#YavuzIK10</url>
+        </inproceedings>
+    </r>
+    <r>
+        <article key="journals/eswa/KoseGS09" mdate="2017-05-26">
+            <author pid="53/7041">Cemal Köse</author>
+            <author pid="17/7410">Okyay Gençalioglu</author>
+            <author pid="84/7409">Ugur Sevik</author>
+            <title>An automatic diagnosis method for the knee meniscus tears in MR images.</title>
+            <pages>1208-1216</pages>
+            <year>2009</year>
+            <volume>36</volume>
+            <journal>Expert Syst. Appl.</journal>
+            <number>2</number>
+            <ee>https://doi.org/10.1016/j.eswa.2007.11.036</ee>
+            <url>db/journals/eswa/eswa36.html#KoseGS09</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/cbm/KoseSG08" mdate="2020-09-02">
+            <author pid="53/7041">Cemal Köse</author>
+            <author pid="84/7409">Ugur Sevik</author>
+            <author pid="17/7410">Okyay Gençalioglu</author>
+            <title>Automatic segmentation of age-related macular degeneration in retinal fundus images.</title>
+            <pages>611-619</pages>
+            <year>2008</year>
+            <volume>38</volume>
+            <journal>Comput. Biol. Medicine</journal>
+            <number>5</number>
+            <ee>https://doi.org/10.1016/j.compbiomed.2008.02.008</ee>
+            <ee>https://www.wikidata.org/entity/Q46652177</ee>
+            <url>db/journals/cbm/cbm38.html#KoseSG08</url>
+        </article>
+    </r>
+    <r>
+        <inproceedings key="conf/airs/KoseOI08" mdate="2017-05-26">
+            <author pid="53/7041">Cemal Köse</author>
+            <author pid="53/2367">Özcan Özyurt</author>
+            <author pid="15/1281">Cevat Ikibas</author>
+            <title>A Comparison of Textual Data Mining Methods for Sex Identification in Chat Conversations.</title>
+            <pages>638-643</pages>
+            <year>2008</year>
+            <booktitle>AIRS</booktitle>
+            <ee>https://doi.org/10.1007/978-3-540-68636-1_76</ee>
+            <crossref>conf/airs/2008</crossref>
+            <url>db/conf/airs/airs2008.html#KoseOI08</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/pakdd/KoseOA07" mdate="2017-05-25">
+            <author pid="53/7041">Cemal Köse</author>
+            <author pid="53/2367">Özcan Özyurt</author>
+            <author pid="22/763">Guychmyrat Amanmyradov</author>
+            <title>Mining Chat Conversations for Sex Identification.</title>
+            <pages>45-55</pages>
+            <year>2007</year>
+            <crossref>conf/pakdd/2007w</crossref>
+            <booktitle>PAKDD Workshops</booktitle>
+            <ee>https://doi.org/10.1007/978-3-540-77018-3_6</ee>
+            <url>db/conf/pakdd/pakdd2007w.html#KoseOA07</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/iscis/KoseO06" mdate="2017-05-26">
+            <author pid="53/7041">Cemal Köse</author>
+            <author pid="53/2367">Özcan Özyurt</author>
+            <title>A Target Oriented Agent to Collect Specific Information in a Chat Medium.</title>
+            <pages>697-706</pages>
+            <year>2006</year>
+            <crossref>conf/iscis/2006</crossref>
+            <booktitle>ISCIS</booktitle>
+            <ee>https://doi.org/10.1007/11902140_73</ee>
+            <url>db/conf/iscis/iscis2006.html#KoseO06</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/sspr/Kose06" mdate="2018-06-26">
+            <author pid="53/7041">Cemal Köse</author>
+            <title>Fully Automatic Segmentation of Coronary Vessel Structures in Poor Quality X-Ray Angiogram Images.
+            </title>
+            <pages>74-82</pages>
+            <year>2006</year>
+            <crossref>conf/sspr/2006</crossref>
+            <booktitle>SSPR/SPR</booktitle>
+            <ee type="oa">https://doi.org/10.1007/11815921_7</ee>
+            <url>db/conf/sspr/sspr2006.html#Kose06</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/pdcn/Kose04" mdate="2006-11-08">
+            <author pid="53/7041">Cemal Köse</author>
+            <title>A scalable semi-shared memory multiprocessor architecture with sliding caches.</title>
+            <pages>410-415</pages>
+            <year>2004</year>
+            <crossref>conf/pdcn/2004</crossref>
+            <booktitle>Parallel and Distributed Computing and Networks</booktitle>
+            <url>db/conf/pdcn/pdcn2004.html#Kose04</url>
+        </inproceedings>
+    </r>
+    <r>
+        <article key="journals/prl/KayikciogluGTK02" mdate="2020-02-22">
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <author pid="33/2609">Ali Gangal</author>
+            <author pid="61/2643">Mehmet Turhal</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <title>A surface-based method for detection of coronary vessel boundaries in poor quality X-ray angiogram
+                images.
+            </title>
+            <pages>783-802</pages>
+            <year>2002</year>
+            <volume>23</volume>
+            <journal>Pattern Recognit. Lett.</journal>
+            <number>7</number>
+            <ee>https://doi.org/10.1016/S0167-8655(01)00156-8</ee>
+            <url>db/journals/prl/prl23.html#KayikciogluGTK02</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/scpe/KoseC00" mdate="2020-07-09">
+            <author pid="53/7041">Cemal Köse</author>
+            <author pid="10/2540">Alan Chalmers</author>
+            <title>Clusteral Models for Efficient Parallel Volume Visualization.</title>
+            <year>2000</year>
+            <volume>3</volume>
+            <journal>Scalable Comput. Pract. Exp.</journal>
+            <number>3</number>
+            <ee>http://www.scpe.org/index.php/scpe/article/view/200</ee>
+            <url>db/journals/scpe/scpe3.html#KoseC00</url>
+        </article>
+    </r>
+    <r>
+        <inproceedings key="conf/pdpta/Kose99" mdate="2004-04-20">
+            <author pid="53/7041">Cemal Köse</author>
+            <title>Hybrid Computational Model for Efficient Parallel Volume Visualization.</title>
+            <pages>3079-3085</pages>
+            <year>1999</year>
+            <crossref>conf/pdpta/1999</crossref>
+            <booktitle>PDPTA</booktitle>
+            <url>db/conf/pdpta/pdpta1999-6.html#Kose99</url>
+        </inproceedings>
+    </r>
+    <r>
+        <phdthesis key="phd/ethos/KoIse97" mdate="2022-04-05">
+            <author pid="53/7041">Cemal Köse</author>
+            <title>Parallel volume visualisation.</title>
+            <year>1997</year>
+            <school>University of Bristol, UK</school>
+            <ee>https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.361100</ee>
+            <note type="source">British Library, EThOS</note>
+        </phdthesis>
+    </r>
+    <r>
+        <article key="journals/pc/KoseC97" mdate="2020-02-22">
+            <author pid="53/7041">Cemal Köse</author>
+            <author pid="10/2540">Alan Chalmers</author>
+            <title>Profiling for Efficient Parallel Volume Visualisation.</title>
+            <pages>943-952</pages>
+            <year>1997</year>
+            <volume>23</volume>
+            <journal>Parallel Comput.</journal>
+            <number>7</number>
+            <url>db/journals/pc/pc23.html#KoseC97</url>
+            <ee>https://doi.org/10.1016/S0167-8191(97)00036-7</ee>
+        </article>
+    </r>
+    <r>
+        <inproceedings key="conf/pdpta/KoseC96" mdate="2005-02-01">
+            <author pid="53/7041">Cemal Köse</author>
+            <author pid="10/2540">Alan Chalmers</author>
+            <title>Load Balancinf for Interactive Volume Visualization.</title>
+            <pages>971-981</pages>
+            <year>1996</year>
+            <crossref>conf/pdpta/1996</crossref>
+            <booktitle>PDPTA</booktitle>
+            <url>db/conf/pdpta/pdpta1996.html#KoseC96</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/ppsg/KoseC96" mdate="2020-06-03">
+            <author pid="53/7041">Cemal Köse</author>
+            <author pid="10/2540">Alan Chalmers</author>
+            <title>Dynamic Data Management for Parallel Volume Visualisation.</title>
+            <pages>181-195</pages>
+            <year>1996</year>
+            <booktitle>UK Parallel</booktitle>
+            <ee>https://doi.org/10.1007/978-1-4471-1504-5_13</ee>
+            <crossref>conf/ppsg/1996</crossref>
+            <url>db/conf/ppsg/ppsg1996.html#KoseC96</url>
+        </inproceedings>
+    </r>
+    <coauthors n="33" nc="6">
+        <co c="4">
+            <na f="a/Agahian:Saeid" pid="238/7646">Saeid Agahian</na>
+        </co>
+        <co c="0">
+            <na f="a/Akdeniz:Fulya" pid="190/9072">Fulya Akdeniz</na>
+        </co>
+        <co c="1">
+            <na f="a/Alizadeh:Sayyad" pid="287/0337">Sayyad Alizadeh</na>
+        </co>
+        <co c="0">
+            <na f="a/Amanmyradov:Guychmyrat" pid="22/763">Guychmyrat Amanmyradov</na>
+        </co>
+        <co c="0">
+            <na f="a/Aydemir:Onder" pid="13/8460">Onder Aydemir</na>
+        </co>
+        <co c="5">
+            <na f="a/Aymaz:Samet" pid="208/1283">Samet Aymaz</na>
+        </co>
+        <co c="5">
+            <na f="a/Aymaz:Seyma" pid="190/9155">Seyma Aymaz</na>
+        </co>
+        <co c="3">
+            <na f="b/Bozkurt:Ferhat" pid="209/6239">Ferhat Bozkurt</na>
+        </co>
+        <co c="-1">
+            <na f="c/Chalmers:Alan" pid="10/2540">Alan Chalmers</na>
+        </co>
+        <co c="0">
+            <na f="d/Dogan:Hulya" pid="126/9533">Hulya Dogan</na>
+        </co>
+        <co c="0">
+            <na f="d/Dogan:Ramazan_Ozgur" pid="158/1778">Ramazan Ozgur Dogan</na>
+        </co>
+        <co c="0">
+            <na f="e/Erd=ouml=l:Hidayet" pid="116/6522">Hidayet Erdöl</na>
+        </co>
+        <co c="0">
+            <na f="g/Gangal:Ali" pid="33/2609">Ali Gangal</na>
+        </co>
+        <co c="0">
+            <na f="g/Gen=ccedil=alioglu:Okyay" pid="17/7410">Okyay Gençalioglu</na>
+        </co>
+        <co c="0">
+            <na f="h/Hatipoglu:Bahar" pid="202/7131">Bahar Hatipoglu</na>
+        </co>
+        <co c="0">
+            <na f="i/Ikibas:Cevat" pid="15/1281">Cevat Ikibas</na>
+        </co>
+        <co c="1">
+            <na f="j/Jond:Hossein_Barghi" pid="158/1750">Hossein Barghi Jond</na>
+        </co>
+        <co c="2">
+            <na f="k/Kayabekir:Murat" pid="209/9387">Murat Kayabekir</na>
+        </co>
+        <co c="0">
+            <na f="k/Kayik=ccedil=ioglu:Ilknur" pid="190/9103">Ilknur Kayikçioglu</na>
+        </co>
+        <co c="0">
+            <na f="k/Kayik=ccedil=ioglu:Temel" pid="09/131">Temel Kayikçioglu</na>
+        </co>
+        <co c="-1" n="2">
+            <na f="k/Kutlu:Funda" pid="158/1084">Funda Kutlu</na>
+            <na>Funda Kutlu Onay</na>
+        </co>
+        <co c="1">
+            <na f="n/Nabiyev:Vasif_V=" pid="93/1775">Vasif V. Nabiyev</na>
+        </co>
+        <co c="4">
+            <na f="n/Negin:Farhood" pid="130/6251">Farhood Negin</na>
+        </co>
+        <co c="-1">
+            <na f="o/Ozen:Yusuf" pid="158/1827">Yusuf Ozen</na>
+        </co>
+        <co c="0">
+            <na f="=/=Ouml=zyurt:=Ouml=zcan" pid="53/2367">Özcan Özyurt</na>
+        </co>
+        <co c="3">
+            <na f="s/Sari:Ahmet" pid="209/6231">Ahmet Sari</na>
+        </co>
+        <co c="0">
+            <na f="s/Sevik:Ugur" pid="84/7409">Ugur Sevik</na>
+        </co>
+        <co c="-1">
+            <na f="t/Talebi:Masoud" pid="158/1229">Masoud Talebi</na>
+        </co>
+        <co c="0">
+            <na f="t/Turhal:Mehmet" pid="61/2643">Mehmet Turhal</na>
+        </co>
+        <co c="2">
+            <na f="y/Yaganoglu:Mete" pid="209/9354">Mete Yaganoglu</na>
+        </co>
+        <co c="0">
+            <na f="y/Yavuz:Zafer" pid="20/9502">Zafer Yavuz</na>
+        </co>
+        <co c="-1">
+            <na f="y/Yelghi:Aref" pid="211/9715">Aref Yelghi</na>
+        </co>
+        <co c="0">
+            <na f="y/Yilmaz:Cagatay_Murat" pid="158/1889">Cagatay Murat Yilmaz</na>
+        </co>
+    </coauthors>
+</dblpperson>

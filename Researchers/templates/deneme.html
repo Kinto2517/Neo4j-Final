@@ -1,0 +1,192 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='main.css') }}">
+    <style type="text/css">
+        html, body {
+            font: 16pt arial;
+        }
+        h2{
+        margin-left: 240px;
+        width: 500px;
+        background: #525252;
+        color: lightgray
+        }
+        #viz {
+            width: 1000px;
+            height: 500px;
+            border: 3px solid lightgray;
+            font: 180pt arial;
+        }
+
+        #viz2 {
+            width: 1000px;
+            height: 500px;
+            border: 3px solid lightgray;
+            font: 18pt arial;
+        }
+
+
+
+
+
+
+
+    </style>
+
+    <script src="https://cdn.rawgit.com/neo4j-contrib/neovis.js/master/dist/neovis.js"></script>
+
+    <script type="text/javascript">
+		// define config car
+		// instantiate nodevis object
+		// draw
+
+		var viz;
+		var viz2;
+
+		function draw() {
+			var config = {
+
+				container_id: "viz",
+				server_url: "neo4j://24ab16aa.databases.neo4j.io",
+				server_user: "neo4j",
+				server_password: "G6tmsnc3xhwupcL5RwPq7tRXBpB5wgUnyWR3ch4Tfws",
+				labels: {
+					"Araştırmacı": {
+						"caption": 'aadı',
+						"size": "pagerank",
+                        "community": "community",
+                        "font": {
+                        "size":23,
+                        "color":"#000000"},
+
+					}
+				},
+				relationships: {
+					"ORTAK_ÇALIŞIR": {
+						"caption": true,
+						"thickness": "weight",
+					}
+				},
+
+				initial_cypher: "MATCH (n:Araştırmacı {aadı:'Ahmet', asoyadı:'Sayar'})-[r:ORTAK_ÇALIŞIR]->(m) RETURN n,r,m LIMIT 20  "
+			};
+
+			viz = new window.NeoVis.default(config);
+			viz.render();
+			console.log(viz);
+
+		}
+
+		function draw2() {
+			var config = {
+				container_id: "viz2",
+				server_url: "neo4j://24ab16aa.databases.neo4j.io",
+				server_user: "neo4j",
+				server_password: "G6tmsnc3xhwupcL5RwPq7tRXBpB5wgUnyWR3ch4Tfws",
+				labels: {
+					"Araştırmacı": {
+						"caption": 'aadı',
+						"size": "pagerank",
+                        "community": "community",
+                        "image": '../static/Octocat.png',
+                        "font": {
+                        "size":35,
+                        "color":"#000000"
+                      },
+
+					},
+					"Yayınlar":{
+					"caption":'yyılı',
+					"font": {
+                        "size":27,
+                        "color":"#000000"
+                      },
+					},
+					"Türler":{
+					"font": {
+                        "size":38,
+                        "color":"#000000"
+                      },
+					"caption":'tyeri',
+					}
+
+				},
+
+				relationships: {
+					"YAYINLAR": {
+                        "thickness": "weight",
+						"caption": true
+					},
+					"YAYINLANIR":{
+					"thickness": "weight",
+					"caption":true
+					}
+				},
+				initial_cypher: "MATCH (n:Araştırmacı {aadı:'Ahmet', asoyadı:'Sayar'})-[r:YAYINLAR]->(m)-[t:YAYINLANIR]->(f) RETURN * LIMIT 20  "
+			};
+
+
+			viz2 = new window.NeoVis.default(config);
+			viz2.render();
+			console.log(viz2);
+			viz.registerOnEvent("completed", (e)=>{
+                viz["_network"].on("click", (event)=>{
+                    if(event.nodes[0]==143){
+                        console.log(event.nodes[0]);
+
+                    }
+                   //window.open("google.com", '_blank').focus();
+                       });
+               }) ;
+
+		}
+
+
+
+
+
+
+    </script>
+</head>
+<body onload="draw();draw2()">
+
+<main role="main" class="container" style="height: 1200px; width: 940px">
+    <div class="row" style="width: 940px">
+        <div class="col-md-8" style="width: 940px">
+            <br>
+            <h2>Yazarının Ortak Çalıştığı Kişiler</h2>
+            <div id="viz"></div>
+            <br>
+
+            <h2>Yazarının Yayınladıkları</h2>
+
+            <div id="viz2"></div>
+
+
+            {% block content %}{% endblock %}
+        </div>
+
+
+    </div>
+</main>
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>

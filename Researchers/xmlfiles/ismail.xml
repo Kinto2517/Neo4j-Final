@@ -1,0 +1,605 @@
+<dblpperson name="Ismail Kaya" pid="89/5546" n="34">
+    <person key="homepages/89/5546" mdate="2021-11-11">
+        <author pid="89/5546">Ismail Kaya</author>
+        <url>https://orcid.org/0000-0002-0862-0525</url>
+    </person>
+    <r>
+        <inproceedings key="conf/siu/SismanSK21" mdate="2021-07-23">
+            <author pid="190/9159">Cem Sisman</author>
+            <author pid="225/7381">Selim Sagir</author>
+            <author pid="89/5546">Ismail Kaya</author>
+            <title>Determination Of The Impact Distance Applied On Long Fuel Distribution Pipes Using Wireless Sensors
+                And Lora Radio.
+            </title>
+            <pages>1-4</pages>
+            <year>2021</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU53274.2021.9478053</ee>
+            <crossref>conf/siu/2021</crossref>
+            <url>db/conf/siu/siu2021.html#SismanSK21</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/icdipc/AdanurYSSK19" mdate="2021-10-14">
+            <author orcid="0000-0001-6916-655X" pid="242/0646">Resul Adanur</author>
+            <author pid="242/0732">Yildiray Yesilyurt</author>
+            <author pid="190/9159">Cem Sisman</author>
+            <author pid="225/7381">Selim Sagir</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <title>Deep Learning for Audio Signal Source Positioning Using Microphone Array.</title>
+            <pages>18-22</pages>
+            <year>2019</year>
+            <booktitle>ICDIPC</booktitle>
+            <ee>https://doi.org/10.1109/ICDIPC.2019.8723738</ee>
+            <crossref>conf/icdipc/2019</crossref>
+            <url>db/conf/icdipc/icdipc2019.html#AdanurYSSK19</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/icdipc/SagirKSBU19" mdate="2021-10-14">
+            <author pid="225/7381">Selim Sagir</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <author pid="190/9159">Cem Sisman</author>
+            <author pid="126/9348">Yusuf Baltaci</author>
+            <author pid="225/7371">Sefa Unal</author>
+            <title>Evaluation of Low-Power Long Distance Radio Communication in Urban Areas: LoRa and Impact of
+                Spreading Factor.
+            </title>
+            <pages>68-71</pages>
+            <year>2019</year>
+            <booktitle>ICDIPC</booktitle>
+            <ee>https://doi.org/10.1109/ICDIPC.2019.8723666</ee>
+            <crossref>conf/icdipc/2019</crossref>
+            <url>db/conf/icdipc/icdipc2019.html#SagirKSBU19</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/tsp/SismanSKUB18" mdate="2021-10-14">
+            <author pid="190/9159">Cem Sisman</author>
+            <author pid="225/7381">Selim Sagir</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <author pid="225/7371">Sefa Unal</author>
+            <author pid="126/9348">Yusuf Baltaci</author>
+            <title>Coding and Diversity Gains of Low Power Radio Communications: BLE and ZigBee.</title>
+            <pages>1-4</pages>
+            <year>2018</year>
+            <booktitle>TSP</booktitle>
+            <ee>https://doi.org/10.1109/TSP.2018.8441493</ee>
+            <crossref>conf/tsp/2018</crossref>
+            <url>db/conf/tsp/tsp2018.html#SismanSKUB18</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/ErdolOSK16" mdate="2021-10-14">
+            <author orcid="0000-0003-0646-284X" pid="190/9106">Hakan Erdol</author>
+            <author pid="190/9084">Hasan Yavuz Ozderya</author>
+            <author pid="190/9159">Cem Sisman</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <title>Comparision of IEEE 802.15.4 and IEEE 802.15.6 standards BER performances.</title>
+            <pages>1445-1448</pages>
+            <year>2016</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2016.7496022</ee>
+            <crossref>conf/siu/2016</crossref>
+            <url>db/conf/siu/siu2016.html#ErdolOSK16</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/SismanOK16" mdate="2021-10-14">
+            <author pid="190/9159">Cem Sisman</author>
+            <author pid="190/9084">Hasan Yavuz Ozderya</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <title>Low complexity, lossless differential base data compression method for wireless body area networks.
+            </title>
+            <pages>2221-2224</pages>
+            <year>2016</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2016.7496216</ee>
+            <crossref>conf/siu/2016</crossref>
+            <url>db/conf/siu/siu2016.html#SismanOK16</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/tsp/ErdolOSKK16" mdate="2021-10-14">
+            <author orcid="0000-0003-0646-284X" pid="190/9106">Hakan Erdol</author>
+            <author pid="190/9084">Hasan Yavuz Ozderya</author>
+            <author pid="190/9159">Cem Sisman</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <title>BER performance comparison of IEEE 802.15.6 and IEEE 802.15.4 on PHY layer.</title>
+            <pages>108-111</pages>
+            <year>2016</year>
+            <booktitle>TSP</booktitle>
+            <ee>https://doi.org/10.1109/TSP.2016.7760839</ee>
+            <crossref>conf/tsp/2016</crossref>
+            <url>db/conf/tsp/tsp2016.html#ErdolOSKK16</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/tsp/AkdenizKKK16" mdate="2021-10-14">
+            <author pid="190/9072">Fulya Akdeniz</author>
+            <author pid="190/9103">Ilknur Kayikçioglu</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Using Wigner-Ville distribution in ECG arrhythmia detection for telemedicine applications.</title>
+            <pages>409-412</pages>
+            <year>2016</year>
+            <booktitle>TSP</booktitle>
+            <ee>https://doi.org/10.1109/TSP.2016.7760908</ee>
+            <crossref>conf/tsp/2016</crossref>
+            <url>db/conf/tsp/tsp2016.html#AkdenizKKK16</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/tsp/CakirYK15" mdate="2021-10-14">
+            <author pid="95/10410">Oguzhan Çakir</author>
+            <author orcid="0000-0003-2209-2973" pid="51/10427">Ayhan Yazgan</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <title>Accuracy comparison of time difference of arrival based source localization methods.</title>
+            <pages>1-4</pages>
+            <year>2015</year>
+            <booktitle>TSP</booktitle>
+            <ee>https://doi.org/10.1109/TSP.2015.7296462</ee>
+            <crossref>conf/tsp/2015</crossref>
+            <url>db/conf/tsp/tsp2015.html#CakirYK15</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/vtc/KayaTON15" mdate="2021-10-14">
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <author pid="13/4184">Emin Tugcu</author>
+            <author pid="23/4721">Ali Özen</author>
+            <author pid="50/6238">Andrew R. Nix</author>
+            <title>Fast Convergence Algorithm for Blind Channel Estimation and Equalization Using CMF-DFE.</title>
+            <pages>1-7</pages>
+            <year>2015</year>
+            <booktitle>VTC Spring</booktitle>
+            <ee>https://doi.org/10.1109/VTCSpring.2015.7145839</ee>
+            <crossref>conf/vtc/2015s</crossref>
+            <url>db/conf/vtc/vtc2015s.html#KayaTON15</url>
+        </inproceedings>
+    </r>
+    <r>
+        <article key="journals/ijcomsys/GunerK14" mdate="2021-10-14">
+            <author pid="78/1293">Ahmet Güner</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <title>Periodic variation method for blind symbol rate estimation.</title>
+            <pages>4199-4209</pages>
+            <year>2014</year>
+            <volume>27</volume>
+            <journal>Int. J. Commun. Syst.</journal>
+            <number>12</number>
+            <ee>https://doi.org/10.1002/dac.2606</ee>
+            <url>db/journals/ijcomsys/ijcomsys27.html#GunerK14</url>
+        </article>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/CakirKC14" mdate="2021-10-14">
+            <author pid="95/10410">Oguzhan Çakir</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <author pid="77/10410">Ömer Çakir</author>
+            <title>Investigation the effect of the time difference of arrival sets on the positioning accuracy for
+                source localization.
+            </title>
+            <pages>2249-2252</pages>
+            <year>2014</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2014.6830713</ee>
+            <crossref>conf/siu/2014</crossref>
+            <url>db/conf/siu/siu2014.html#CakirKC14</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/CakirK13" mdate="2021-10-14">
+            <author pid="95/10410">Oguzhan Çakir</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <title>Investigation the effect of the distribution of receivers on the positioning error for emitter
+                location finding.
+            </title>
+            <pages>1-4</pages>
+            <year>2013</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2013.6531491</ee>
+            <crossref>conf/siu/2013</crossref>
+            <url>db/conf/siu/siu2013.html#CakirK13</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/GunerK13" mdate="2021-10-14">
+            <author pid="78/1293">Ahmet Güner</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <title>Novel automatic modulation classification method employing higher-order cumulants and constellation
+                histogram in the presence of CFO.
+            </title>
+            <pages>1-4</pages>
+            <year>2013</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2013.6531430</ee>
+            <crossref>conf/siu/2013</crossref>
+            <url>db/conf/siu/siu2013.html#GunerK13</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/GunerK13a" mdate="2021-10-14">
+            <author pid="78/1293">Ahmet Güner</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <title>An experimental study on blind symbol rate estimation.</title>
+            <pages>1-4</pages>
+            <year>2013</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2013.6531304</ee>
+            <crossref>conf/siu/2013</crossref>
+            <url>db/conf/siu/siu2013.html#GunerK13a</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/KoybasiK13" mdate="2021-10-14">
+            <author pid="158/1047">Zeynep Koybasi</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <title>Security and power consumption comparisons of wireless sensor networks.</title>
+            <pages>1-4</pages>
+            <year>2013</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2013.6531452</ee>
+            <crossref>conf/siu/2013</crossref>
+            <url>db/conf/siu/siu2013.html#KoybasiK13</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/SimsekKA13" mdate="2021-10-14">
+            <author pid="158/1249">Cemaleddin Simsek</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <author orcid="0000-0002-1989-1697" pid="158/1244">Cenk Albayrak</author>
+            <title>Low complexity, losless ECG data compression algorthims for Wireless Sensor Network.</title>
+            <pages>1-4</pages>
+            <year>2013</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2013.6531451</ee>
+            <crossref>conf/siu/2013</crossref>
+            <url>db/conf/siu/siu2013.html#SimsekKA13</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/tsp/CakirKY13" mdate="2021-10-14">
+            <author pid="95/10410">Oguzhan Çakir</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <author orcid="0000-0003-2209-2973" pid="51/10427">Ayhan Yazgan</author>
+            <title>Optimization of receiver arrangements for emitter location finding using time difference of
+                arrival.
+            </title>
+            <pages>376-379</pages>
+            <year>2013</year>
+            <booktitle>TSP</booktitle>
+            <ee>https://doi.org/10.1109/TSP.2013.6613956</ee>
+            <crossref>conf/tsp/2013</crossref>
+            <url>db/conf/tsp/tsp2013.html#CakirKY13</url>
+        </inproceedings>
+    </r>
+    <r>
+        <article key="journals/wpc/OzenKS12" mdate="2021-10-14">
+            <author pid="23/4721">Ali Özen</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <author pid="63/39">Birol Soysal</author>
+            <title>A Supervised Constant Modulus Algorithm for Blind Equalization.</title>
+            <pages>151-166</pages>
+            <year>2012</year>
+            <volume>62</volume>
+            <journal>Wirel. Pers. Commun.</journal>
+            <number>1</number>
+            <ee>https://doi.org/10.1007/s11277-010-0045-1</ee>
+            <url>db/journals/wpc/wpc62.html#OzenKS12</url>
+        </article>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/TugcuKO12" mdate="2021-10-14">
+            <author pid="13/4184">Emin Tugcu</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <author pid="23/4721">Ali Özen</author>
+            <title>A novel PSO based blind channel estimation and equalization.</title>
+            <pages>1-4</pages>
+            <year>2012</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2012.6204630</ee>
+            <crossref>conf/siu/2012</crossref>
+            <url>db/conf/siu/siu2012.html#TugcuKO12</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/tsp/CakirTOK12" mdate="2021-10-14">
+            <author pid="83/10258">Fatih Çakir</author>
+            <author pid="13/4184">Emin Tugcu</author>
+            <author pid="23/4721">Ali Özen</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <title>Novel cascaded Turbo-Permutation coding for frequency selective Rayleigh fading channels.</title>
+            <pages>237-241</pages>
+            <year>2012</year>
+            <booktitle>TSP</booktitle>
+            <ee>https://doi.org/10.1109/TSP.2012.6256289</ee>
+            <crossref>conf/tsp/2012</crossref>
+            <url>db/conf/tsp/tsp2012.html#CakirTOK12</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/tsp/CakirYCTK12" mdate="2021-10-14">
+            <author pid="95/10410">Oguzhan Çakir</author>
+            <author orcid="0000-0003-2209-2973" pid="51/10427">Ayhan Yazgan</author>
+            <author pid="77/10410">Ömer Çakir</author>
+            <author pid="13/4184">Emin Tugcu</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <title>Novel composite method for determining the location of the transmitter using Particle Swarm
+                Optimization.
+            </title>
+            <pages>335-339</pages>
+            <year>2012</year>
+            <booktitle>TSP</booktitle>
+            <ee>https://doi.org/10.1109/TSP.2012.6256310</ee>
+            <crossref>conf/tsp/2012</crossref>
+            <url>db/conf/tsp/tsp2012.html#CakirYCTK12</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/tsp/CakirYCK12" mdate="2021-10-14">
+            <author pid="95/10410">Oguzhan Çakir</author>
+            <author orcid="0000-0003-2209-2973" pid="51/10427">Ayhan Yazgan</author>
+            <author pid="77/10410">Ömer Çakir</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <title>Different perspective of time difference of arrival averaging.</title>
+            <pages>344-347</pages>
+            <year>2012</year>
+            <booktitle>TSP</booktitle>
+            <ee>https://doi.org/10.1109/TSP.2012.6256312</ee>
+            <crossref>conf/tsp/2012</crossref>
+            <url>db/conf/tsp/tsp2012.html#CakirYCK12</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/pimrc/GunerK11" mdate="2021-10-14">
+            <author pid="78/1293">Ahmet Güner</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <title>Periodic variation method for blind symbol rate estimation.</title>
+            <pages>147-151</pages>
+            <year>2011</year>
+            <booktitle>PIMRC</booktitle>
+            <ee>https://doi.org/10.1109/PIMRC.2011.6139748</ee>
+            <crossref>conf/pimrc/2011</crossref>
+            <url>db/conf/pimrc/pimrc2011.html#GunerK11</url>
+        </inproceedings>
+    </r>
+    <r>
+        <article key="journals/wpc/OzenKS10" mdate="2021-10-14">
+            <author pid="23/4721">Ali Özen</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <author pid="63/39">Birol Soysal</author>
+            <title>Variable Step-Size Constant Modulus Algorithm Employing Fuzzy Logic Controller.</title>
+            <pages>237-250</pages>
+            <year>2010</year>
+            <volume>54</volume>
+            <journal>Wirel. Pers. Commun.</journal>
+            <number>2</number>
+            <ee>https://doi.org/10.1007/s11277-009-9723-2</ee>
+            <url>db/journals/wpc/wpc54.html#OzenKS10</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/wpc/KahveciK10" mdate="2021-10-14">
+            <author pid="02/10798">Salim Kahveci</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <title>Turbo Code with Modified LLR and Performance Analysis for Bluetooth Packets in Indoor Environments.
+            </title>
+            <pages>277-287</pages>
+            <year>2010</year>
+            <volume>54</volume>
+            <journal>Wirel. Pers. Commun.</journal>
+            <number>2</number>
+            <ee>https://doi.org/10.1007/s11277-009-9725-0</ee>
+            <url>db/journals/wpc/wpc54.html#KahveciK10</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/ieicet/TurkK09" mdate="2021-10-14">
+            <author pid="27/957">Kadir Türk</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <title>Analysis of Initialized LMS Equalizer for Frequency Selective MIMO Channels Using Single Carrier IEEE
+                802.16-2004 PHY.
+            </title>
+            <pages>2413-2419</pages>
+            <year>2009</year>
+            <volume>92-B</volume>
+            <journal>IEICE Trans. Commun.</journal>
+            <number>7</number>
+            <ee>https://doi.org/10.1587/transcom.E92.B.2413</ee>
+            <url>db/journals/ieicet/ieicet92b.html#TurkK09</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/ieicet/OzenKS08" mdate="2021-10-14">
+            <author pid="23/4721">Ali Özen</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <author pid="63/39">Birol Soysal</author>
+            <title>Design of a Fuzzy Based Outer Loop Controller for Improving the Training Performance of LMS
+                Algorithm.
+            </title>
+            <pages>3738-3744</pages>
+            <year>2008</year>
+            <volume>91-A</volume>
+            <journal>IEICE Trans. Fundam. Electron. Commun. Comput. Sci.</journal>
+            <number>12</number>
+            <ee>https://doi.org/10.1093/ietfec/e91-a.12.3738</ee>
+            <url>db/journals/ieicet/ieicet91a.html#OzenKS08</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/wpc/KahveciKT08" mdate="2021-10-14">
+            <author pid="02/10798">Salim Kahveci</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <author pid="27/957">Kadir Türk</author>
+            <title>Dynamic Look-Up-Table-Based Maximum a Posterior Probability Algorithm.</title>
+            <pages>317-328</pages>
+            <year>2008</year>
+            <volume>46</volume>
+            <journal>Wirel. Pers. Commun.</journal>
+            <number>3</number>
+            <ee>https://doi.org/10.1007/s11277-007-9436-3</ee>
+            <url>db/journals/wpc/wpc46.html#KahveciKT08</url>
+        </article>
+    </r>
+    <r>
+        <inproceedings key="conf/icic/OzenGCTSK08" mdate="2021-10-14">
+            <author pid="23/4721">Ali Özen</author>
+            <author pid="78/1293">Ahmet Güner</author>
+            <author pid="95/10410">Oguzhan Çakir</author>
+            <author pid="13/4184">Emin Tugcu</author>
+            <author pid="63/39">Birol Soysal</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <title>A Novel Approach for Blind Channel Equalization.</title>
+            <pages>347-357</pages>
+            <year>2008</year>
+            <booktitle>ICIC (2)</booktitle>
+            <ee>https://doi.org/10.1007/978-3-540-85984-0_43</ee>
+            <crossref>conf/icic/2008-2</crossref>
+            <url>db/conf/icic/icic2008-2.html#OzenGCTSK08</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/wcnc/TurkK08" mdate="2021-10-14">
+            <author pid="27/957">Kadir Türk</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <title>Experimental BER Performance Evolution of Equalizations and Matched Filter Bounds for Single-Carrier
+                WiMax Radio in 3.5 GHz.
+            </title>
+            <pages>2015-2020</pages>
+            <year>2008</year>
+            <booktitle>WCNC</booktitle>
+            <ee>https://doi.org/10.1109/WCNC.2008.358</ee>
+            <crossref>conf/wcnc/2008</crossref>
+            <url>db/conf/wcnc/wcnc2008.html#TurkK08</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/icic/OzenKS07" mdate="2017-05-23">
+            <author pid="23/4721">Ali Özen</author>
+            <author pid="89/5546">Ismail Kaya</author>
+            <author pid="63/39">Birol Soysal</author>
+            <title>Design of a Fuzzy Based Outer Loop Controller for Improving the Training Performance of LMS
+                Algorithm.
+            </title>
+            <pages>1051-1063</pages>
+            <year>2007</year>
+            <booktitle>ICIC (3)</booktitle>
+            <ee>https://doi.org/10.1007/978-3-540-74282-1_118</ee>
+            <crossref>conf/icic/2007-3</crossref>
+            <url>db/conf/icic/icic2007-3.html#OzenKS07</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/pimrc/KayaTB07" mdate="2021-10-14">
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <author pid="27/957">Kadir Türk</author>
+            <author pid="126/9348">Yusuf Baltaci</author>
+            <title>Experimental Ber Performance Evaluation of OFDM and Single Carrier Transmissions in Real-Time Wimax
+                Radio.
+            </title>
+            <pages>1-5</pages>
+            <year>2007</year>
+            <booktitle>PIMRC</booktitle>
+            <ee>https://doi.org/10.1109/PIMRC.2007.4394074</ee>
+            <crossref>conf/pimrc/2007</crossref>
+            <url>db/conf/pimrc/pimrc2007.html#KayaTB07</url>
+        </inproceedings>
+    </r>
+    <r>
+        <article key="journals/cm/BenjaminKN99" mdate="2021-10-14">
+            <author pid="24/4243">R. Benjamin</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <author pid="50/6238">Andrew R. Nix</author>
+            <title>Smart base stations for \"dumb\" time-division duplex terminals.</title>
+            <pages>124-131</pages>
+            <year>1999</year>
+            <volume>37</volume>
+            <journal>IEEE Commun. Mag.</journal>
+            <number>2</number>
+            <ee>https://doi.org/10.1109/35.747261</ee>
+            <url>db/journals/cm/cm37.html#BenjaminKN99</url>
+        </article>
+    </r>
+    <coauthors n="26" nc="1">
+        <co c="0">
+            <na f="a/Adanur:Resul" pid="242/0646">Resul Adanur</na>
+        </co>
+        <co c="0">
+            <na f="a/Akdeniz:Fulya" pid="190/9072">Fulya Akdeniz</na>
+        </co>
+        <co c="0">
+            <na f="a/Albayrak:Cenk" pid="158/1244">Cenk Albayrak</na>
+        </co>
+        <co c="0">
+            <na f="b/Baltaci:Yusuf" pid="126/9348">Yusuf Baltaci</na>
+        </co>
+        <co c="0">
+            <na f="b/Benjamin:R=" pid="24/4243">R. Benjamin</na>
+        </co>
+        <co c="0">
+            <na f="=/=Ccedil=akir:Fatih" pid="83/10258">Fatih Çakir</na>
+        </co>
+        <co c="0">
+            <na f="=/=Ccedil=akir:Oguzhan" pid="95/10410">Oguzhan Çakir</na>
+        </co>
+        <co c="0">
+            <na f="=/=Ccedil=akir:=Ouml=mer" pid="77/10410">Ömer Çakir</na>
+        </co>
+        <co c="0">
+            <na f="e/Erdol:Hakan" pid="190/9106">Hakan Erdol</na>
+        </co>
+        <co c="0">
+            <na f="g/G=uuml=ner:Ahmet" pid="78/1293">Ahmet Güner</na>
+        </co>
+        <co c="0">
+            <na f="k/Kahveci:Salim" pid="02/10798">Salim Kahveci</na>
+        </co>
+        <co c="0">
+            <na f="k/Kayik=ccedil=ioglu:Ilknur" pid="190/9103">Ilknur Kayikçioglu</na>
+        </co>
+        <co c="0">
+            <na f="k/Kayik=ccedil=ioglu:Temel" pid="09/131">Temel Kayikçioglu</na>
+        </co>
+        <co c="-1">
+            <na f="k/Koybasi:Zeynep" pid="158/1047">Zeynep Koybasi</na>
+        </co>
+        <co c="0">
+            <na f="n/Nix:Andrew_R=" pid="50/6238">Andrew R. Nix</na>
+        </co>
+        <co c="0">
+            <na f="o/Ozderya:Hasan_Yavuz" pid="190/9084">Hasan Yavuz Ozderya</na>
+        </co>
+        <co c="0">
+            <na f="=/=Ouml=zen:Ali" pid="23/4721">Ali Özen</na>
+        </co>
+        <co c="0">
+            <na f="s/Sagir:Selim" pid="225/7381">Selim Sagir</na>
+        </co>
+        <co c="0">
+            <na f="s/Simsek:Cemaleddin" pid="158/1249">Cemaleddin Simsek</na>
+        </co>
+        <co c="0">
+            <na f="s/Sisman:Cem" pid="190/9159">Cem Sisman</na>
+        </co>
+        <co c="0">
+            <na f="s/Soysal:Birol" pid="63/39">Birol Soysal</na>
+        </co>
+        <co c="0">
+            <na f="t/Tugcu:Emin" pid="13/4184">Emin Tugcu</na>
+        </co>
+        <co c="0">
+            <na f="t/T=uuml=rk:Kadir" pid="27/957">Kadir Türk</na>
+        </co>
+        <co c="0">
+            <na f="u/Unal:Sefa" pid="225/7371">Sefa Unal</na>
+        </co>
+        <co c="0">
+            <na f="y/Yazgan:Ayhan" pid="51/10427">Ayhan Yazgan</na>
+        </co>
+        <co c="0">
+            <na f="y/Yesilyurt:Yildiray" pid="242/0732">Yildiray Yesilyurt</na>
+        </co>
+    </coauthors>
+</dblpperson>

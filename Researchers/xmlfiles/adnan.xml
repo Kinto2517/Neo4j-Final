@@ -1,0 +1,793 @@
+<dblpperson name="Adnan Kavak" pid="86/3057" n="44">
+<person key="homepages/86/3057" mdate="2009-06-09">
+<author pid="86/3057">Adnan Kavak</author>
+</person>
+<r>
+<article key="journals/access/YengiKA20" mdate="2020-09-19">
+<author orcid="0000-0002-6251-6534" pid="202/7213">Yeliz Yengi</author>
+<author orcid="0000-0001-5694-8042" pid="86/3057">Adnan Kavak</author>
+<author pid="67/1416">Hüseyin Arslan</author>
+<title>Physical Layer Detection of Malicious Relays in LTE-A Network Using Unsupervised Learning.</title>
+<pages>154713-154726</pages>
+<year>2020</year>
+<volume>8</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2020.3017045</ee>
+<url>db/journals/access/access8.html#YengiKA20</url>
+</article>
+</r>
+<r>
+<article key="journals/ijcomsys/AsshadKKK20" mdate="2020-12-29">
+<author orcid="0000-0003-4998-5579" pid="247/9028">Muhammad Asshad</author>
+<author pid="86/3057">Adnan Kavak</author>
+<author pid="21/4523">Kerem Kucuk</author>
+<author orcid="0000-0002-0787-1357" pid="187/7577">Sajjad Ahmad Khan</author>
+<title>Comparative performance analysis of cooperative and multi dual-hop relay networks using MGF approach.</title>
+<year>2020</year>
+<volume>33</volume>
+<journal>Int. J. Commun. Syst.</journal>
+<number>15</number>
+<ee>https://doi.org/10.1002/dac.4545</ee>
+<url>db/journals/ijcomsys/ijcomsys33.html#AsshadKKK20</url>
+</article>
+</r>
+<r>
+<article key="journals/access/KhanKCK19" mdate="2019-09-23">
+<author orcid="0000-0002-0787-1357" pid="187/7577">Sajjad Ahmad Khan</author>
+<author orcid="0000-0001-5694-8042" pid="86/3057">Adnan Kavak</author>
+<author orcid="0000-0001-7154-0723" pid="202/7387">Sultan Aldirmaz Çolak</author>
+<author orcid="0000-0002-2621-634X" pid="21/4523">Kerem Kucuk</author>
+<title>A Novel Fractional Frequency Reuse Scheme for Interference Management in LTE-A HetNets.</title>
+<pages>109662-109672</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2019.2933689</ee>
+<url>db/journals/access/access7.html#KhanKCK19</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/siu/KhanKKA19" mdate="2021-04-09">
+<author orcid="0000-0002-0787-1357" pid="187/7577">Sajjad Ahmad Khan</author>
+<author pid="86/3057">Adnan Kavak</author>
+<author pid="21/4523">Kerem Kucuk</author>
+<author orcid="0000-0003-4998-5579" pid="247/9028">Muhammad Asshad</author>
+<title>A New Fractional Frequency Reuse Method for Interference Management in LTE-A HetNets.</title>
+<pages>1-4</pages>
+<year>2019</year>
+<booktitle>SIU</booktitle>
+<ee>https://doi.org/10.1109/SIU.2019.8806317</ee>
+<crossref>conf/siu/2019</crossref>
+<url>db/conf/siu/siu2019.html#KhanKKA19</url>
+</inproceedings>
+</r>
+<r>
+<article key="journals/iajit/GulagizEKS18" mdate="2021-04-28">
+<author pid="144/4317">Fidan Kaya Gülagiz</author>
+<author pid="121/2902">Süleyman Eken</author>
+<author pid="86/3057">Adnan Kavak</author>
+<author pid="74/5903">Ahmet Sayar</author>
+<title>Idle time estimation for bandwidth-efficient synchronization in replicated distributed file system.</title>
+<pages>177-185</pages>
+<year>2018</year>
+<volume>15</volume>
+<journal>Int. Arab J. Inf. Technol.</journal>
+<number>2</number>
+<url>db/journals/iajit/iajit15.html#GulagizEKS18</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/siu/AvcuKI18" mdate="2022-01-03">
+<author pid="225/2953">Furkan Avcu</author>
+<author pid="86/3057">Adnan Kavak</author>
+<author orcid="0000-0003-0933-654X" pid="225/3328">A. Burak Inner</author>
+<title>QRS detection on IOS platform based on single channel practical ECG measurement for remote patient monitoring.</title>
+<pages>1-4</pages>
+<year>2018</year>
+<booktitle>SIU</booktitle>
+<ee>https://doi.org/10.1109/SIU.2018.8404656</ee>
+<crossref>conf/siu/2018</crossref>
+<url>db/conf/siu/siu2018.html#AvcuKI18</url>
+</inproceedings>
+</r>
+<r>
+<article key="journals/wpc/AtmacaSYK17" mdate="2020-08-20">
+<author pid="12/7073">Sedat Atmaca</author>
+<author orcid="0000-0001-9702-5287" pid="195/0941">Ömer Sayli</author>
+<author pid="98/609">Jin Yuan</author>
+<author pid="86/3057">Adnan Kavak</author>
+<title>Throughput Maximization of CSMA in Cognitive Radio Networks with Cooperative Spectrum Sensing.</title>
+<pages>1473-1492</pages>
+<year>2017</year>
+<volume>92</volume>
+<journal>Wirel. Pers. Commun.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s11277-016-3616-y</ee>
+<url>db/journals/wpc/wpc92.html#AtmacaSYK17</url>
+</article>
+</r>
+<r>
+<article key="journals/jcp/GulagizBK16" mdate="2021-02-25">
+<author pid="144/4317">Fidan Kaya Gülagiz</author>
+<author pid="181/0099">Ugur Basaran</author>
+<author pid="86/3057">Adnan Kavak</author>
+<title>Analyzing Entity Framework Technology for an Indoor Decoration Based Recommendation System.</title>
+<pages>320-328</pages>
+<year>2016</year>
+<volume>11</volume>
+<journal>J. Comput.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.17706/jcp.11.4.320-328</ee>
+<url>db/journals/jcp/jcp11.html#GulagizBK16</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/monami/EkenGSKKI16" mdate="2018-11-14">
+<author pid="121/2902">Süleyman Eken</author>
+<author pid="144/4317">Fidan Kaya Gülagiz</author>
+<author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+<author pid="86/3057">Adnan Kavak</author>
+<author pid="144/4333">Umut Kocasaraç</author>
+<author pid="144/4531">Zana Ilhan</author>
+<title>A Novel Signaling Protocol (ARCSPXP): Case Study on Synchronization of Educational Data.</title>
+<pages>31-43</pages>
+<year>2016</year>
+<booktitle>MONAMI</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-52712-3_3</ee>
+<ee>https://www.wikidata.org/entity/Q57816898</ee>
+<crossref>conf/monami/2016</crossref>
+<url>db/conf/monami/monami2016.html#EkenGSKKI16</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/siu/GulagizEKS15" mdate="2020-10-25">
+<author orcid="0000-0003-3519-9278" pid="144/4317">Fidan Kaya Gülagiz</author>
+<author pid="121/2902">Süleyman Eken</author>
+<author pid="86/3057">Adnan Kavak</author>
+<author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+<title>Estimation of idle time for synchronization: A case study on Fatih project.</title>
+<pages>1158-1161</pages>
+<year>2015</year>
+<booktitle>SIU</booktitle>
+<ee>https://doi.org/10.1109/SIU.2015.7130041</ee>
+<ee>https://www.wikidata.org/entity/Q57817083</ee>
+<crossref>conf/siu/2015</crossref>
+<url>db/conf/siu/siu2015.html#GulagizEKS15</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/siu/MentesogluKYTSO15" mdate="2020-09-05">
+<author pid="258/0040">Mustafa Mentesoglu</author>
+<author pid="86/3057">Adnan Kavak</author>
+<author pid="57/2641">Mehmet Yakut</author>
+<author pid="127/4793">Ali Tangel</author>
+<author pid="74/2480">Suhap Sahin</author>
+<author orcid="0000-0002-7146-203X" pid="219/7923">Hikmetcan Ozcan</author>
+<title>Design and implementation of a communication protocol for mobile device controlled smart home management system.</title>
+<pages>1370-1373</pages>
+<year>2015</year>
+<booktitle>SIU</booktitle>
+<ee>https://doi.org/10.1109/SIU.2015.7130096</ee>
+<crossref>conf/siu/2015</crossref>
+<url>db/conf/siu/siu2015.html#MentesogluKYTSO15</url>
+</inproceedings>
+</r>
+<r>
+<article key="journals/ijdsn/YeginKCD14" mdate="2020-06-21">
+<author pid="142/9211">Korkut Yegin</author>
+<author pid="86/3057">Adnan Kavak</author>
+<author pid="97/6630">Erdal Cayirci</author>
+<author orcid="0000-0003-1936-2514" pid="86/99">Kapil R. Dandekar</author>
+<title>Smart and Reconfigurable Antenna Applications in Wireless Sensor Networks.</title>
+<year>2014</year>
+<volume>10</volume>
+<journal>Int. J. Distributed Sens. Networks</journal>
+<ee type="oa">https://doi.org/10.1155/2014/658792</ee>
+<url>db/journals/ijdsn/ijdsn10.html#YeginKCD14</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/inista/EkenKSK14" mdate="2020-10-25">
+<author pid="121/2902">Süleyman Eken</author>
+<author orcid="0000-0003-3519-9278" pid="144/4317">Fidan Kaya Gülagiz</author>
+<author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+<author pid="86/3057">Adnan Kavak</author>
+<title>Tracking a single nodes availability for communication by means of observing local system resources.</title>
+<pages>41-45</pages>
+<year>2014</year>
+<booktitle>INISTA</booktitle>
+<ee>https://doi.org/10.1109/INISTA.2014.6873595</ee>
+<ee>https://www.wikidata.org/entity/Q57817146</ee>
+<crossref>conf/inista/2014</crossref>
+<url>db/conf/inista/inista2014.html#EkenKSK14</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/ncca/KayaEIKSKS14" mdate="2020-10-25">
+<author orcid="0000-0003-3519-9278" pid="144/4317">Fidan Kaya Gülagiz</author>
+<author pid="121/2902">Süleyman Eken</author>
+<author pid="144/4531">Zana Ilhan</author>
+<author pid="86/3057">Adnan Kavak</author>
+<author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+<author pid="144/4333">Umut Kocasaraç</author>
+<author pid="74/2480">Suhap Sahin</author>
+<title>A Comparative Study of Signaling Protocols for Data Management and Synchronization in Fatih Project with School Level Cloud Proxy Server Deployment.</title>
+<pages>133-136</pages>
+<year>2014</year>
+<booktitle>NCCA</booktitle>
+<ee>https://doi.org/10.1109/NCCA.2014.29</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/NCCA.2014.29</ee>
+<ee>https://www.wikidata.org/entity/Q57817104</ee>
+<crossref>conf/ncca/2014</crossref>
+<url>db/conf/ncca/ncca2014.html#KayaEIKSKS14</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/wicon/EkenKSKS14" mdate="2020-10-25">
+<author pid="121/2902">Süleyman Eken</author>
+<author orcid="0000-0003-3519-9278" pid="144/4317">Fidan Kaya Gülagiz</author>
+<author orcid="0000-0002-6335-459X" pid="74/5903">Ahmet Sayar</author>
+<author pid="86/3057">Adnan Kavak</author>
+<author pid="74/2480">Suhap Sahin</author>
+<title>A Method for Localization of Computational Node and Proxy Server in Educational Data Synchronization.</title>
+<pages>180-190</pages>
+<year>2014</year>
+<booktitle>WICON</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-18802-7_26</ee>
+<ee>https://www.wikidata.org/entity/Q57817056</ee>
+<crossref>conf/wicon/2014</crossref>
+<url>db/conf/wicon/wicon2014.html#EkenKSKS14</url>
+</inproceedings>
+</r>
+<r>
+<article key="journals/simulation/KucukBKA13" mdate="2020-06-08">
+<author pid="21/4523">Kerem Kucuk</author>
+<author pid="48/9984">Necla Bandirmali</author>
+<author pid="86/3057">Adnan Kavak</author>
+<author pid="12/7073">Sedat Atmaca</author>
+<title>A modified sectoral sweeper-based localization estimation and its implementation in a multi-hop wireless sensor networking environment by using OPNET.</title>
+<pages>746-761</pages>
+<year>2013</year>
+<volume>89</volume>
+<journal>Simul.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1177/0037549713481256</ee>
+<url>db/journals/simulation/simulation89.html#KucukBKA13</url>
+</article>
+</r>
+<r>
+<article key="journals/wpc/KucukK13" mdate="2020-08-20">
+<author pid="21/4523">Kerem Kucuk</author>
+<author pid="86/3057">Adnan Kavak</author>
+<title>Connectivity Analysis for Wireless Sensor Networks with Antenna Array Integrated Central Node.</title>
+<pages>1361-1371</pages>
+<year>2013</year>
+<volume>72</volume>
+<journal>Wirel. Pers. Commun.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11277-013-1083-2</ee>
+<url>db/journals/wpc/wpc72.html#KucukK13</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/siu/SahinKC13" mdate="2017-05-24">
+<author pid="74/2480">Suhap Sahin</author>
+<author pid="86/3057">Adnan Kavak</author>
+<author pid="23/9404">Mehmet Ali Çavuslu</author>
+<title>Comparison of number formats on FPGA-based OFDM modem architecture.</title>
+<pages>1-4</pages>
+<year>2013</year>
+<booktitle>SIU</booktitle>
+<ee>https://doi.org/10.1109/SIU.2013.6531480</ee>
+<crossref>conf/siu/2013</crossref>
+<url>db/conf/siu/siu2013.html#SahinKC13</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/siu/KucukBK12" mdate="2017-05-24">
+<author pid="21/4523">Kerem Kucuk</author>
+<author pid="48/9984">Necla Bandirmali</author>
+<author pid="86/3057">Adnan Kavak</author>
+<title>Using OPNET for performance evaluation of modified SSLE in sensor networks.</title>
+<pages>1-4</pages>
+<year>2012</year>
+<booktitle>SIU</booktitle>
+<ee>https://doi.org/10.1109/SIU.2012.6204512</ee>
+<crossref>conf/siu/2012</crossref>
+<url>db/conf/siu/siu2012.html#KucukBK12</url>
+</inproceedings>
+</r>
+<r>
+<article key="journals/wpc/DikmeseKKST11" mdate="2020-08-20">
+<author orcid="0000-0002-0454-0050" pid="13/10351">Sener Dikmese</author>
+<author pid="86/3057">Adnan Kavak</author>
+<author pid="21/4523">Kerem Kucuk</author>
+<author pid="74/2480">Suhap Sahin</author>
+<author pid="127/4793">Ali Tangel</author>
+<title>FPGA Based Implementation and Comparison of Beamformers for CDMA2000.</title>
+<pages>233-253</pages>
+<year>2011</year>
+<volume>57</volume>
+<journal>Wirel. Pers. Commun.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11277-009-9855-4</ee>
+<url>db/journals/wpc/wpc57.html#DikmeseKKST11</url>
+</article>
+</r>
+<r>
+<article key="journals/adhoc/KucukK10" mdate="2017-05-20">
+<author pid="21/4523">Kerem Kucuk</author>
+<author pid="86/3057">Adnan Kavak</author>
+<title>Scalable location estimation using smart antennas in wireless sensor networks.</title>
+<pages>889-903</pages>
+<year>2010</year>
+<volume>8</volume>
+<journal>Ad Hoc Networks</journal>
+<number>8</number>
+<ee>https://doi.org/10.1016/j.adhoc.2010.04.005</ee>
+<url>db/journals/adhoc/adhoc8.html#KucukK10</url>
+</article>
+</r>
+<r>
+<article key="journals/wpc/YigitKK10" mdate="2020-08-20">
+<author pid="18/2878">Halil Yigit</author>
+<author pid="86/3057">Adnan Kavak</author>
+<author pid="21/4523">Kerem Kucuk</author>
+<title>Capacity Improvement for TDD-MIMO Systems via AR Modeling Based Linear Prediction.</title>
+<pages>411-418</pages>
+<year>2010</year>
+<volume>52</volume>
+<journal>Wirel. Pers. Commun.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11277-009-9823-z</ee>
+<url>db/journals/wpc/wpc52.html#YigitKK10</url>
+</article>
+</r>
+<r>
+<article key="journals/asc/KarakocK09" mdate="2017-05-26">
+<author pid="86/3000">Mustafa Karakoç</author>
+<author pid="86/3057">Adnan Kavak</author>
+<title>Genetic approach for dynamic OVSF code allocation in 3G wireless networks.</title>
+<pages>348-361</pages>
+<year>2009</year>
+<volume>9</volume>
+<journal>Appl. Soft Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.asoc.2008.04.012</ee>
+<url>db/journals/asc/asc9.html#KarakocK09</url>
+</article>
+</r>
+<r>
+<article key="journals/wpc/KucukKKYO09" mdate="2020-08-20">
+<author pid="21/4523">Kerem Kucuk</author>
+<author pid="86/3057">Adnan Kavak</author>
+<author pid="86/3000">Mustafa Karakoç</author>
+<author pid="18/2878">Halil Yigit</author>
+<author pid="86/3794">Caner Ozdemir</author>
+<title>A Practical Space-Code Correlator Receiver for DSP Based Software Radio Implementation in CDMA2000.</title>
+<pages>245-261</pages>
+<year>2009</year>
+<volume>49</volume>
+<journal>Wirel. Pers. Commun.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11277-008-9570-6</ee>
+<url>db/journals/wpc/wpc49.html#KucukKKYO09</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/iswcs/KavakK09" mdate="2021-05-06">
+<author pid="86/3057">Adnan Kavak</author>
+<author pid="21/4523">Kerem Kucuk</author>
+<title>On connectivity analysis of smart antenna capable wireless sensor networks.</title>
+<pages>6-10</pages>
+<year>2009</year>
+<booktitle>ISWCS</booktitle>
+<ee>https://doi.org/10.1109/ISWCS.2009.5285278</ee>
+<crossref>conf/iswcs/2009</crossref>
+<url>db/conf/iswcs/iswcs2009.html#KavakK09</url>
+</inproceedings>
+</r>
+<r>
+<article key="journals/wicomm/KavakKTO08" mdate="2020-08-06">
+<author pid="86/3057">Adnan Kavak</author>
+<author pid="86/3000">Mustafa Karakoç</author>
+<author pid="47/3668">Murat Torlak</author>
+<author pid="86/3794">Caner Ozdemir</author>
+<title>Interference analysis and capacity for forward link 3G CDMA network with adaptive antennas.</title>
+<pages>531-543</pages>
+<year>2008</year>
+<volume>8</volume>
+<journal>Wirel. Commun. Mob. Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1002/wcm.494</ee>
+<url>db/journals/wicomm/wicomm8.html#KavakKTO08</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/ew/KucukKYO08" mdate="2013-05-20">
+<author pid="21/4523">Kerem Kucuk</author>
+<author pid="86/3057">Adnan Kavak</author>
+<author pid="18/2878">Halil Yigit</author>
+<author pid="86/3794">Caner Ozdemir</author>
+<title>A New Wireless Sensor Networks Localization Scheme with Antenna Arrays.</title>
+<year>2008</year>
+<booktitle>EW</booktitle>
+<ee>http://www.vde-verlag.de/proceedings-de/563102071.html</ee>
+<crossref>conf/ew/2008</crossref>
+<url>db/conf/ew/ew2008.html#KucukKYO08</url>
+</inproceedings>
+</r>
+<r>
+<article key="journals/wpc/KavakK07" mdate="2020-08-20">
+<author pid="86/3057">Adnan Kavak</author>
+<author pid="86/3000">Mustafa Karakoç</author>
+<title>Smart Antenna Based OVSF Code Assignment for WCDMA Networks.</title>
+<pages>1761-1766</pages>
+<year>2007</year>
+<volume>43</volume>
+<journal>Wirel. Pers. Commun.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s11277-007-9343-7</ee>
+<url>db/journals/wpc/wpc43.html#KavakK07</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/iswcs/KucukKY07" mdate="2021-05-08">
+<author pid="21/4523">Kerem Kucuk</author>
+<author pid="86/3057">Adnan Kavak</author>
+<author pid="18/2878">Halil Yigit</author>
+<title>A Smart Antenna Module Using OMNeT++ for Wireless Sensor Network Simulation.</title>
+<pages>747-751</pages>
+<year>2007</year>
+<booktitle>ISWCS</booktitle>
+<ee>https://doi.org/10.1109/ISWCS.2007.4392440</ee>
+<crossref>conf/iswcs/2007</crossref>
+<url>db/conf/iswcs/iswcs2007.html#KucukKY07</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/new2an/KarakocK07" mdate="2017-05-26">
+<author pid="86/3000">Mustafa Karakoç</author>
+<author pid="86/3057">Adnan Kavak</author>
+<title>Stochastic Optimization Algorithm Based Dynamic Resource Assignment for 3G Systems.</title>
+<pages>223-234</pages>
+<year>2007</year>
+<crossref>conf/new2an/2007</crossref>
+<booktitle>NEW2AN</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74833-5_19</ee>
+<url>db/conf/new2an/new2an2007.html#KarakocK07</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/pimrc/KarakocK07" mdate="2017-05-25">
+<author pid="86/3000">Mustafa Karakoç</author>
+<author pid="86/3057">Adnan Kavak</author>
+<title>A New Dynamic OVSF Code Allocation Method based on Adaptive Simulated Annealing Genetic Algorithm (ASAGA).</title>
+<pages>1-5</pages>
+<year>2007</year>
+<booktitle>PIMRC</booktitle>
+<ee>https://doi.org/10.1109/PIMRC.2007.4394702</ee>
+<crossref>conf/pimrc/2007</crossref>
+<url>db/conf/pimrc/pimrc2007.html#KarakocK07</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/saga/KarakocK07" mdate="2017-05-19">
+<author pid="86/3000">Mustafa Karakoç</author>
+<author pid="86/3057">Adnan Kavak</author>
+<title>Stochastic Methods for Dynamic OVSF Code Assignment in 3G Networks.</title>
+<pages>142-153</pages>
+<year>2007</year>
+<crossref>conf/saga/2007</crossref>
+<booktitle>SAGA</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-74871-7_13</ee>
+<url>db/conf/saga/saga2007.html#KarakocK07</url>
+</inproceedings>
+</r>
+<r>
+<article key="journals/wpc/ErdoganCK06" mdate="2020-08-20">
+<author pid="127/9745">Ayhan Erdogan</author>
+<author pid="35/6990">Vedat Coskun</author>
+<author pid="86/3057">Adnan Kavak</author>
+<title>The Sectoral Sweeper Scheme for Wireless Sensor Networks: Adaptive Antenna Array Based Sensor Node Management and Location Estimation.</title>
+<pages>415-433</pages>
+<year>2006</year>
+<volume>39</volume>
+<journal>Wirel. Pers. Commun.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s11277-006-9058-1</ee>
+<url>db/journals/wpc/wpc39.html#ErdoganCK06</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/iswcs/SahinDKK06" mdate="2021-05-19">
+<author pid="74/2480">Suhap Sahin</author>
+<author orcid="0000-0002-0454-0050" pid="13/10351">Sener Dikmese</author>
+<author pid="21/4523">Kerem Kucuk</author>
+<author pid="86/3057">Adnan Kavak</author>
+<title>A Comparative Study of Antenna Array Algorithm Implementations using FPGA and DSP for cdma2000.</title>
+<pages>714-718</pages>
+<year>2006</year>
+<booktitle>ISWCS</booktitle>
+<ee>https://doi.org/10.1109/ISWCS.2006.4362394</ee>
+<crossref>conf/iswcs/2006</crossref>
+<url>db/conf/iswcs/iswcs2006.html#SahinDKK06</url>
+</inproceedings>
+</r>
+<r>
+<article key="journals/tnn/KavakYE05" mdate="2018-11-14">
+<author pid="86/3057">Adnan Kavak</author>
+<author pid="18/2878">Halil Yigit</author>
+<author pid="56/1481">H. Metin Ertunç</author>
+<title>Using adaline neural network for performance improvement of smart antennas in TDD wireless communications.</title>
+<pages>1616-1625</pages>
+<year>2005</year>
+<volume>16</volume>
+<journal>IEEE Trans. Neural Networks</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TNN.2005.857947</ee>
+<ee>https://www.wikidata.org/entity/Q51306398</ee>
+<url>db/journals/tnn/tnn16.html#KavakYE05</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/iswcs/KucukKKY05" mdate="2021-05-12">
+<author pid="21/4523">Kerem Kucuk</author>
+<author pid="86/3000">Mustafa Karakoç</author>
+<author pid="86/3057">Adnan Kavak</author>
+<author pid="18/2878">Halil Yigit</author>
+<title>Design and Hardware Implementation of a Novel Smart Antenna Algorithm Using TI DSPs.</title>
+<pages>596-600</pages>
+<year>2005</year>
+<booktitle>ISWCS</booktitle>
+<ee>https://doi.org/10.1109/ISWCS.2005.1547773</ee>
+<crossref>conf/iswcs/2005</crossref>
+<url>db/conf/iswcs/iswcs2005.html#KucukKKY05</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/pimrc/KavakKCD05" mdate="2017-05-25">
+<author pid="86/3057">Adnan Kavak</author>
+<author pid="86/3000">Mustafa Karakoç</author>
+<author pid="15/5616">Joseph R. Cleveland</author>
+<author pid="09/4058">H. Engin Demiray</author>
+<title>Dynamic Allocation of OVSF Codes to Access Terminals with an Adaptive Antenna Array.</title>
+<pages>21-25</pages>
+<year>2005</year>
+<booktitle>PIMRC</booktitle>
+<ee>https://doi.org/10.1109/PIMRC.2005.1651391</ee>
+<crossref>conf/pimrc/2005</crossref>
+<url>db/conf/pimrc/pimrc2005.html#KavakKCD05</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/cit/KucukKK04" mdate="2017-05-25">
+<author pid="21/4523">Kerem Kucuk</author>
+<author pid="86/3000">Mustafa Karakoç</author>
+<author pid="86/3057">Adnan Kavak</author>
+<title>Software Radio Implementation of a Smart Antenna System on Digital Signal Processors for cdma2000.</title>
+<pages>97-106</pages>
+<ee>https://doi.org/10.1007/978-3-540-30561-3_11</ee>
+<year>2004</year>
+<crossref>conf/cit/2004</crossref>
+<booktitle>CIT</booktitle>
+<url>db/conf/cit/cit2004.html#KucukKK04</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/isnn/YigitKE04" mdate="2017-05-19">
+<author pid="18/2878">Halil Yigit</author>
+<author pid="86/3057">Adnan Kavak</author>
+<author pid="56/1481">H. Metin Ertunç</author>
+<title>Autoregressive and Neural Network Model Based Predictions for Downlink Beamforming.</title>
+<pages>254-261</pages>
+<ee>https://doi.org/10.1007/978-3-540-28648-6_40</ee>
+<year>2004</year>
+<crossref>conf/isnn/2004-2</crossref>
+<booktitle>ISNN (2)</booktitle>
+<url>db/conf/isnn/isnn2004-2.html#YigitKE04</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/networking/KarakocK04" mdate="2017-05-26">
+<author pid="86/3000">Mustafa Karakoç</author>
+<author pid="86/3057">Adnan Kavak</author>
+<title>Evaluation of Smart Antenna Algorithms for cdma2000 Reverse Link.</title>
+<pages>1360-1365</pages>
+<ee>https://doi.org/10.1007/978-3-540-24693-0_119</ee>
+<year>2004</year>
+<crossref>conf/networking/2004</crossref>
+<booktitle>NETWORKING</booktitle>
+<url>db/conf/networking/networking2004.html#KarakocK04</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/vtc/KavakLC01" mdate="2017-05-21">
+<author pid="86/3057">Adnan Kavak</author>
+<author pid="11/5344">Jae D. Lim</author>
+<author pid="15/5616">Joseph R. Cleveland</author>
+<title>Forward link capacity analysis of 3G CDMA wireless systems with adaptive antenna arrays.</title>
+<pages>2063-2066</pages>
+<year>2001</year>
+<booktitle>VTC Fall</booktitle>
+<ee>https://doi.org/10.1109/VTC.2001.957107</ee>
+<crossref>conf/vtc/2001f</crossref>
+<url>db/conf/vtc/vtc2001f.html#KavakLC01</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/icassp/YangKXK00" mdate="2017-05-19">
+<author pid="67/4294">Weidong Yang</author>
+<author pid="140/9037">Sang-Youb Kim</author>
+<author pid="30/1601">Guanghan Xu</author>
+<author pid="86/3057">Adnan Kavak</author>
+<title>Fast joint detection with cyclic reduction exploiting displacement structures.</title>
+<pages>2857-2860</pages>
+<year>2000</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2000.861117</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICASSP.2000.861117</ee>
+<crossref>conf/icassp/2000</crossref>
+<url>db/conf/icassp/icassp2000.html#YangKXK00</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/icassp/KangKKX00" mdate="2017-05-19">
+<author pid="48/1071">Joonhyuk Kang</author>
+<author pid="140/9037">Sang-Youb Kim</author>
+<author pid="86/3057">Adnan Kavak</author>
+<author pid="30/1601">Guanghan Xu</author>
+<title>Improved fast algorithm for spatial signature estimation.</title>
+<pages>3085-3088</pages>
+<year>2000</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2000.861189</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICASSP.2000.861189</ee>
+<crossref>conf/icassp/2000</crossref>
+<url>db/conf/icassp/icassp2000.html#KangKKX00</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/icassp/YangKX99" mdate="2017-05-19">
+<author pid="67/4294">Weidong Yang</author>
+<author pid="86/3057">Adnan Kavak</author>
+<author pid="30/1601">Guanghan Xu</author>
+<title>On the multichannel characteristics of a 1.8 GHz smart antenna system using a circular array in realistic non-stationary wireless scenarios.</title>
+<pages>2607-2610</pages>
+<year>1999</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.1999.760665</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICASSP.1999.760665</ee>
+<crossref>conf/icassp/1999</crossref>
+<url>db/conf/icassp/icassp1999.html#YangKX99</url>
+</inproceedings>
+</r>
+<coauthors n="42" nc="2">
+<co c="0">
+<na f="a/Arslan:H=uuml=seyin" pid="67/1416">Hüseyin Arslan</na>
+</co>
+<co c="0">
+<na f="a/Asshad:Muhammad" pid="247/9028">Muhammad Asshad</na>
+</co>
+<co c="0">
+<na f="a/Atmaca:Sedat" pid="12/7073">Sedat Atmaca</na>
+</co>
+<co c="1">
+<na f="a/Avcu:Furkan" pid="225/2953">Furkan Avcu</na>
+</co>
+<co c="0">
+<na f="b/Bandirmali:Necla" pid="48/9984">Necla Bandirmali</na>
+</co>
+<co c="0">
+<na f="b/Basaran:Ugur" pid="181/0099">Ugur Basaran</na>
+</co>
+<co c="0">
+<na f="=/=Ccedil=avuslu:Mehmet_Ali" pid="23/9404">Mehmet Ali Çavuslu</na>
+</co>
+<co c="0">
+<na f="c/Cayirci:Erdal" pid="97/6630">Erdal Cayirci</na>
+</co>
+<co c="0">
+<na f="c/Cleveland:Joseph_R=" pid="15/5616">Joseph R. Cleveland</na>
+</co>
+<co c="0">
+<na f="=/=Ccedil=olak:Sultan_Aldirmaz" pid="202/7387">Sultan Aldirmaz Çolak</na>
+</co>
+<co c="0">
+<na f="c/Coskun:Vedat" pid="35/6990">Vedat Coskun</na>
+</co>
+<co c="0">
+<na f="d/Dandekar:Kapil_R=" pid="86/99">Kapil R. Dandekar</na>
+</co>
+<co c="0">
+<na f="d/Demiray:H=_Engin" pid="09/4058">H. Engin Demiray</na>
+</co>
+<co c="0">
+<na f="d/Dikmese:Sener" pid="13/10351">Sener Dikmese</na>
+</co>
+<co c="0">
+<na f="e/Eken:S=uuml=leyman" pid="121/2902">Süleyman Eken</na>
+</co>
+<co c="0">
+<na f="e/Erdogan:Ayhan" pid="127/9745">Ayhan Erdogan</na>
+</co>
+<co c="0">
+<na f="e/Ertun=ccedil=:H=_Metin" pid="56/1481">H. Metin Ertunç</na>
+</co>
+<co c="0">
+<na f="g/G=uuml=lagiz:Fidan_Kaya" pid="144/4317">Fidan Kaya Gülagiz</na>
+</co>
+<co c="0">
+<na f="i/Ilhan:Zana" pid="144/4531">Zana Ilhan</na>
+</co>
+<co c="1">
+<na f="i/Inner:A=_Burak" pid="225/3328">A. Burak Inner</na>
+</co>
+<co c="0">
+<na f="k/Kang:Joonhyuk" pid="48/1071">Joonhyuk Kang</na>
+</co>
+<co c="0">
+<na f="k/Karako=ccedil=:Mustafa" pid="86/3000">Mustafa Karakoç</na>
+</co>
+<co c="0">
+<na f="k/Khan:Sajjad_Ahmad" pid="187/7577">Sajjad Ahmad Khan</na>
+</co>
+<co c="0">
+<na f="k/Kim:Sang=Youb" pid="140/9037">Sang-Youb Kim</na>
+</co>
+<co c="0">
+<na f="k/Kocasara=ccedil=:Umut" pid="144/4333">Umut Kocasaraç</na>
+</co>
+<co c="0">
+<na f="k/Kucuk:Kerem" pid="21/4523">Kerem Kucuk</na>
+</co>
+<co c="0">
+<na f="l/Lim:Jae_D=" pid="11/5344">Jae D. Lim</na>
+</co>
+<co c="0">
+<na f="m/Mentesoglu:Mustafa" pid="258/0040">Mustafa Mentesoglu</na>
+</co>
+<co c="0">
+<na f="o/Ozcan:Hikmetcan" pid="219/7923">Hikmetcan Ozcan</na>
+</co>
+<co c="0">
+<na f="o/Ozdemir:Caner" pid="86/3794">Caner Ozdemir</na>
+</co>
+<co c="0">
+<na f="s/Sahin:Suhap" pid="74/2480">Suhap Sahin</na>
+</co>
+<co c="0">
+<na f="s/Sayar:Ahmet" pid="74/5903">Ahmet Sayar</na>
+</co>
+<co c="0">
+<na f="s/Sayli:=Ouml=mer" pid="195/0941">Ömer Sayli</na>
+</co>
+<co c="0">
+<na f="t/Tangel:Ali" pid="127/4793">Ali Tangel</na>
+</co>
+<co c="0">
+<na f="t/Torlak:Murat" pid="47/3668">Murat Torlak</na>
+</co>
+<co c="0">
+<na f="x/Xu:Guanghan" pid="30/1601">Guanghan Xu</na>
+</co>
+<co c="0">
+<na f="y/Yakut:Mehmet" pid="57/2641">Mehmet Yakut</na>
+</co>
+<co c="0">
+<na f="y/Yang:Weidong" pid="67/4294">Weidong Yang</na>
+</co>
+<co c="0">
+<na f="y/Yegin:Korkut" pid="142/9211">Korkut Yegin</na>
+</co>
+<co c="0">
+<na f="y/Yengi:Yeliz" pid="202/7213">Yeliz Yengi</na>
+</co>
+<co c="0">
+<na f="y/Yigit:Halil" pid="18/2878">Halil Yigit</na>
+</co>
+<co c="0">
+<na f="y/Yuan:Jin" pid="98/609">Jin Yuan</na>
+</co>
+</coauthors>
+</dblpperson>

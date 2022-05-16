@@ -1,0 +1,1097 @@
+<dblpperson name="Temel Kayikçioglu" pid="09/131" n="65">
+    <person key="homepages/09/131" mdate="2010-09-27">
+        <author pid="09/131">Temel Kayikçioglu</author>
+    </person>
+    <r>
+        <article key="journals/cj/ManshouriMK22" mdate="2022-03-14">
+            <author pid="158/1197">Negin Manshouri</author>
+            <author pid="280/9720">Mesut Melek</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Detection of 2D and 3D Video Transitions Based on EEG Power.</title>
+            <pages>396-409</pages>
+            <year>2022</year>
+            <volume>65</volume>
+            <journal>Comput. J.</journal>
+            <number>2</number>
+            <ee>https://doi.org/10.1093/comjnl/bxaa116</ee>
+            <url>db/journals/cj/cj65.html#ManshouriMK22</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/cmpb/DoganDBK21" mdate="2021-08-26">
+            <author pid="158/1778">Ramazan Ozgur Dogan</author>
+            <author pid="126/9533">Hulya Dogan</author>
+            <author pid="12/5678">Coskun Bayrak</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>A Two-Phase Approach using Mask R-CNN and 3D U-Net for High-Accuracy Automatic Segmentation of
+                Pancreas in CT Imaging.
+            </title>
+            <pages>106141</pages>
+            <year>2021</year>
+            <volume>207</volume>
+            <journal>Comput. Methods Programs Biomed.</journal>
+            <ee>https://doi.org/10.1016/j.cmpb.2021.106141</ee>
+            <url>db/journals/cmpb/cmpb207.html#DoganDBK21</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/eswa/BaysalKAK21" mdate="2021-09-19">
+            <author orcid="0000-0002-3357-8867" pid="279/1844">Yesim Aysel Baysal</author>
+            <author orcid="0000-0001-9729-1091" pid="138/2811">Seniha Ketenci</author>
+            <author pid="97/7482">Ismail H. Altas</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Multi-objective symbiotic organism search algorithm for optimal feature selection in brain computer
+                interfaces.
+            </title>
+            <pages>113907</pages>
+            <year>2021</year>
+            <volume>165</volume>
+            <journal>Expert Syst. Appl.</journal>
+            <ee>https://doi.org/10.1016/j.eswa.2020.113907</ee>
+            <url>db/journals/eswa/eswa165.html#BaysalKAK21</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/eswa/OzcanK21" mdate="2021-02-23">
+            <author pid="202/7411">Zübeyir Özcan</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Evaluating MFCC-based speaker identification systems with data envelopment analysis.</title>
+            <pages>114448</pages>
+            <year>2021</year>
+            <volume>168</volume>
+            <journal>Expert Syst. Appl.</journal>
+            <ee>https://doi.org/10.1016/j.eswa.2020.114448</ee>
+            <url>db/journals/eswa/eswa168.html#OzcanK21</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/ijcta/YildirimBSKG21" mdate="2021-08-12">
+            <author pid="297/6606">Ömer Yildirim</author>
+            <author pid="267/6214">Ibrahim Bozyel</author>
+            <author pid="190/9148">Kubra Saka</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <author orcid="0000-0003-1847-1356" pid="249/2682">Dincer Gokcen</author>
+            <title>Polydimethylsiloxane-based capacitive motion sensor and its read-out circuit.</title>
+            <pages>2147-2157</pages>
+            <year>2021</year>
+            <volume>49</volume>
+            <journal>Int. J. Circuit Theory Appl.</journal>
+            <number>7</number>
+            <ee>https://doi.org/10.1002/cta.3009</ee>
+            <url>db/journals/ijcta/ijcta49.html#YildirimBSKG21</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/mta/AkdenizKK21" mdate="2021-10-05">
+            <author orcid="0000-0002-2303-5885" pid="190/9072">Fulya Akdeniz</author>
+            <author pid="190/9103">Ilknur Kayikçioglu</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Classification of cardiac arrhythmias using Zhao-Atlas-Marks time-frequency distribution.</title>
+            <pages>30523-30537</pages>
+            <year>2021</year>
+            <volume>80</volume>
+            <journal>Multim. Tools Appl.</journal>
+            <number>20</number>
+            <ee>https://doi.org/10.1007/s11042-021-10945-6</ee>
+            <url>db/journals/mta/mta80.html#AkdenizKK21</url>
+        </article>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/OzcanYK21" mdate="2021-07-23">
+            <author pid="202/7411">Zübeyir Özcan</author>
+            <author pid="297/6606">Ömer Yildirim</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>BroomyCell: An Introductory Educational Software for Neuroscience.</title>
+            <pages>1-4</pages>
+            <year>2021</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU53274.2021.9477851</ee>
+            <crossref>conf/siu/2021</crossref>
+            <url>db/conf/siu/siu2021.html#OzcanYK21</url>
+        </inproceedings>
+    </r>
+    <r>
+        <article key="journals/access/TureK20" mdate="2021-09-16">
+            <author orcid="0000-0003-3012-8016" pid="202/7602">Hayati Ture</author>
+            <author orcid="0000-0002-6787-2415" pid="09/131">Temel Kayikçioglu</author>
+            <title>Accurate Detection of Distorted Pectoral Muscle in Mammograms Using Specific Patterned Isocontours.
+            </title>
+            <pages>147370-147386</pages>
+            <year>2020</year>
+            <volume>8</volume>
+            <journal>IEEE Access</journal>
+            <ee type="oa">https://doi.org/10.1109/ACCESS.2020.3015286</ee>
+            <url>db/journals/access/access8.html#TureK20</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/bspc/ManshouriMK20" mdate="2020-02-22">
+            <author orcid="0000-0001-5297-5545" pid="158/1197">Negin Manshouri</author>
+            <author pid="158/1081">Masoud Maleki</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>An EEG-based stereoscopic research of the PSD differences in pre and post 2D and 3D movies
+                watching.
+            </title>
+            <year>2020</year>
+            <volume>55</volume>
+            <journal>Biomed. Signal Process. Control.</journal>
+            <ee>https://doi.org/10.1016/j.bspc.2019.101642</ee>
+            <url>db/journals/bspc/bspc55.html#ManshouriMK20</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/cee/KayikciogluAKK20" mdate="2020-11-11">
+            <author pid="190/9103">Ilknur Kayikçioglu</author>
+            <author pid="190/9072">Fulya Akdeniz</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Time-frequency approach to ECG classification of myocardial infarction.</title>
+            <pages>106621</pages>
+            <year>2020</year>
+            <volume>84</volume>
+            <journal>Comput. Electr. Eng.</journal>
+            <ee>https://doi.org/10.1016/j.compeleceng.2020.106621</ee>
+            <url>db/journals/cee/cee84.html#KayikciogluAKK20</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/cj/ManshouriK20" mdate="2020-06-16">
+            <author orcid="0000-0001-5297-5545" pid="158/1197">Negin Manshouri</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>A Comprehensive Analysis of 2D and 3D Video Watching of EEG Signals by Increasing PLSR and SVM
+                Classification Results.
+            </title>
+            <pages>425-434</pages>
+            <year>2020</year>
+            <volume>63</volume>
+            <journal>Comput. J.</journal>
+            <number>3</number>
+            <ee>https://doi.org/10.1093/comjnl/bxz043</ee>
+            <url>db/journals/cj/cj63.html#ManshouriK20</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/tds/MelekMK20" mdate="2020-12-16">
+            <author pid="280/9720">Mesut Melek</author>
+            <author pid="158/1197">Negin Manshouri</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Low-Cost Brain-Computer Interface Using the Emotiv Epoc Headset Based on Rotating Vanes.</title>
+            <pages>831-837</pages>
+            <year>2020</year>
+            <volume>37</volume>
+            <journal>Traitement du Signal</journal>
+            <number>5</number>
+            <ee>https://doi.org/10.18280/ts.370516</ee>
+            <url>db/journals/tds/tds37.html#MelekMK20</url>
+        </article>
+    </r>
+    <r>
+        <article publtype="informal" key="journals/corr/abs-1903-05636" mdate="2019-03-31">
+            <author pid="158/1197">Negin Manshouri</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>A Comprehensive Analysis of 2D and 3D Video Watching of EEG Signals by Increasing PLSR and SVM
+                Classification Results.
+            </title>
+            <year>2019</year>
+            <volume>abs/1903.05636</volume>
+            <journal>CoRR</journal>
+            <ee type="oa">http://arxiv.org/abs/1903.05636</ee>
+            <url>db/journals/corr/corr1903.html#abs-1903-05636</url>
+        </article>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/AkdenizK18" mdate="2018-08-26">
+            <author pid="190/9072">Fulya Akdeniz</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Detection of ECG arrhythmia using Zhao-Atlas Mark time-frequency distribution.</title>
+            <pages>1-4</pages>
+            <year>2018</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2018.8404585</ee>
+            <crossref>conf/siu/2018</crossref>
+            <url>db/conf/siu/siu2018.html#AkdenizK18</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/DoganK18" mdate="2018-08-26">
+            <author pid="158/1778">Ramazan Ozgur Dogan</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>R-peaks detection with convolutional neural network in electrocardiogram signal.</title>
+            <pages>1-4</pages>
+            <year>2018</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2018.8404655</ee>
+            <crossref>conf/siu/2018</crossref>
+            <url>db/conf/siu/siu2018.html#DoganK18</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/KayikciogluKK18" mdate="2018-08-26">
+            <author pid="190/9103">Ilknur Kayikçioglu</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>ECG ST segment change detection using Born-Jordan Time-Frequency Transform and Artificial Neural
+                Networks.
+            </title>
+            <pages>1-4</pages>
+            <year>2018</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2018.8404266</ee>
+            <crossref>conf/siu/2018</crossref>
+            <url>db/conf/siu/siu2018.html#KayikciogluKK18</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/MalekiMK18" mdate="2018-08-26">
+            <author pid="158/1081">Masoud Maleki</author>
+            <author pid="158/1197">Negin Manshouri</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Fast and accurate classifier-based brain-computer interface system using single channel EEG data.
+            </title>
+            <pages>1-4</pages>
+            <year>2018</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2018.8404376</ee>
+            <crossref>conf/siu/2018</crossref>
+            <url>db/conf/siu/siu2018.html#MalekiMK18</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/ManshouriMK18" mdate="2018-08-26">
+            <author pid="158/1197">Negin Manshouri</author>
+            <author pid="158/1081">Masoud Maleki</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Power spectrum analysis of EEG for watching 2D and 3D videos and resting state.</title>
+            <pages>1-4</pages>
+            <year>2018</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2018.8404394</ee>
+            <crossref>conf/siu/2018</crossref>
+            <url>db/conf/siu/siu2018.html#ManshouriMK18</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/YildirimK18a" mdate="2021-07-23">
+            <author pid="297/6606">Ömer Yildirim</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Detecting cardiac arrhythmia by using time differences of double wavelength PPG peaks.</title>
+            <pages>1-4</pages>
+            <year>2018</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2018.8404846</ee>
+            <crossref>conf/siu/2018</crossref>
+            <url>db/conf/siu/siu2018.html#YildirimK18a</url>
+        </inproceedings>
+    </r>
+    <r>
+        <article key="journals/cmpb/YilmazKK17" mdate="2020-03-27">
+            <author orcid="0000-0002-3712-7086" pid="15/7173">Ercument Yilmaz</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <author pid="125/3078">Saadettin Kayipmaz</author>
+            <title>Computer-aided diagnosis of periapical cyst and keratocystic odontogenic tumor on cone beam computed
+                tomography.
+            </title>
+            <pages>91-100</pages>
+            <year>2017</year>
+            <volume>146</volume>
+            <journal>Comput. Methods Programs Biomed.</journal>
+            <ee>https://doi.org/10.1016/j.cmpb.2017.05.012</ee>
+            <ee>https://www.wikidata.org/entity/Q47773541</ee>
+            <url>db/journals/cmpb/cmpb146.html#YilmazKK17</url>
+        </article>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/DoganKY17" mdate="2017-07-11">
+            <author pid="158/1778">Ramazan Ozgur Dogan</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <author pid="202/7449">Yavuz Yagci</author>
+            <title>Real time sending and monitoring electronic health records.</title>
+            <pages>1-4</pages>
+            <year>2017</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2017.7960571</ee>
+            <crossref>conf/siu/2017</crossref>
+            <url>db/conf/siu/siu2017.html#DoganKY17</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/ErogluKOK17" mdate="2017-07-11">
+            <author pid="158/1237">Kubra Eroglu</author>
+            <author pid="202/7453">Pinar Kurt</author>
+            <author pid="65/5731">Onur Osman</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Observation of the effect of the increase in luminance level on emotional assessment in EEG records
+                using Welch method.
+            </title>
+            <pages>1-4</pages>
+            <year>2017</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2017.7960649</ee>
+            <crossref>conf/siu/2017</crossref>
+            <url>db/conf/siu/siu2017.html#ErogluKOK17</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/KayikciogluUK17" mdate="2018-08-24">
+            <author pid="190/9103">Ilknur Kayikçioglu</author>
+            <author pid="34/7657">Güzin Ulutas</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Time-frequency analysis based detection of ECG ST segment change using large feature set.</title>
+            <pages>1-4</pages>
+            <year>2017</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2017.7960408</ee>
+            <crossref>conf/siu/2017</crossref>
+            <url>db/conf/siu/siu2017.html#KayikciogluUK17</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/MalekiMK17" mdate="2017-07-11">
+            <author pid="158/1081">Masoud Maleki</author>
+            <author pid="158/1197">Negin Manshouri</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Application of PLSR with a comparison of MATLAB classification learner app in using BCI.</title>
+            <pages>1-4</pages>
+            <year>2017</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2017.7960534</ee>
+            <crossref>conf/siu/2017</crossref>
+            <url>db/conf/siu/siu2017.html#MalekiMK17</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/ManshouriMK17" mdate="2017-07-11">
+            <author pid="158/1197">Negin Manshouri</author>
+            <author pid="158/1081">Masoud Maleki</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Frequency analysis of EEG signal during watching 2D and 3D movies based on PLSR classifier: A
+                comparison of methods.
+            </title>
+            <pages>1-4</pages>
+            <year>2017</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2017.7960436</ee>
+            <crossref>conf/siu/2017</crossref>
+            <url>db/conf/siu/siu2017.html#ManshouriMK17</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/OzcanK17" mdate="2021-10-14">
+            <author orcid="0000-0003-1661-5141" pid="202/7411">Zübeyir Özcan</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>A speaker identification performance comparison based on the classifier, the computation time and the
+                number of MFCC.
+            </title>
+            <pages>1-4</pages>
+            <year>2017</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2017.7960550</ee>
+            <crossref>conf/siu/2017</crossref>
+            <url>db/conf/siu/siu2017.html#OzcanK17</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/TomakK17" mdate="2017-07-11">
+            <author pid="202/7583">Ozgur Tomak</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Effect on classification of wavelet compression on ECG signal.</title>
+            <pages>1-4</pages>
+            <year>2017</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2017.7960200</ee>
+            <crossref>conf/siu/2017</crossref>
+            <url>db/conf/siu/siu2017.html#TomakK17</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/TureK17" mdate="2017-07-11">
+            <author pid="202/7602">Hayati Ture</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Detection and segmentation of masses in mammograms by the rule based elimination approach.</title>
+            <pages>1-4</pages>
+            <year>2017</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2017.7960440</ee>
+            <crossref>conf/siu/2017</crossref>
+            <url>db/conf/siu/siu2017.html#TureK17</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/YilmazKK17" mdate="2020-03-27">
+            <author orcid="0000-0002-3712-7086" pid="15/7173">Ercument Yilmaz</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <author pid="125/3078">Saadettin Kayipmaz</author>
+            <title>Semi-automatic segmentation of apical lesions in cone beam computed tomography images.</title>
+            <pages>1-4</pages>
+            <year>2017</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2017.7960618</ee>
+            <crossref>conf/siu/2017</crossref>
+            <url>db/conf/siu/siu2017.html#YilmazKK17</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/tsp/ErogluKKO17" mdate="2017-10-27">
+            <author pid="158/1237">Kubra Eroglu</author>
+            <author pid="202/7453">Pinar Kurt</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <author pid="65/5731">Onur Osman</author>
+            <title>Investigation of luminance effect on the emotional assessment using principle components analysis
+                method.
+            </title>
+            <pages>448-451</pages>
+            <year>2017</year>
+            <booktitle>TSP</booktitle>
+            <ee>https://doi.org/10.1109/TSP.2017.8076025</ee>
+            <crossref>conf/tsp/2017</crossref>
+            <url>db/conf/tsp/tsp2017.html#ErogluKKO17</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/tsp/YilmazKK17" mdate="2020-03-27">
+            <author orcid="0000-0002-3712-7086" pid="15/7173">Ercument Yilmaz</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <author pid="125/3078">Saadettin Kayipmaz</author>
+            <title>Noise removal of CBCT images using an adaptive anisotropic diffusion filter.</title>
+            <pages>650-653</pages>
+            <year>2017</year>
+            <booktitle>TSP</booktitle>
+            <ee>https://doi.org/10.1109/TSP.2017.8076067</ee>
+            <crossref>conf/tsp/2017</crossref>
+            <url>db/conf/tsp/tsp2017.html#YilmazKK17</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/MalekiK16" mdate="2017-11-08">
+            <author pid="158/1081">Masoud Maleki</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Classification of EEG signal during gaze on the different rotating vanes.</title>
+            <pages>593-596</pages>
+            <year>2016</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2016.7495810</ee>
+            <crossref>conf/siu/2016</crossref>
+            <url>db/conf/siu/siu2016.html#MalekiK16</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/ManshourK16" mdate="2017-11-08">
+            <author pid="208/1169">Negin Manshour</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Classification of 2D and 3D videos based on EEG waves.</title>
+            <pages>949-952</pages>
+            <year>2016</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2016.7495898</ee>
+            <crossref>conf/siu/2016</crossref>
+            <url>db/conf/siu/siu2016.html#ManshourK16</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/ErogluKKO16" mdate="2017-11-08">
+            <author pid="158/1237">Kubra Eroglu</author>
+            <author pid="202/7453">Pinar Kurt</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <author pid="65/5731">Onur Osman</author>
+            <title>Investigation the effect of luminance level on the emotional assesment in EEG recordings using
+                wavelet transform.
+            </title>
+            <pages>1629-1632</pages>
+            <year>2016</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2016.7496068</ee>
+            <crossref>conf/siu/2016</crossref>
+            <url>db/conf/siu/siu2016.html#ErogluKKO16</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/TomakK16" mdate="2017-11-08">
+            <author pid="202/7583">Ozgur Tomak</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Comparison of different classification methods in arrhythmia detection using Hjorth descriptors.
+            </title>
+            <pages>1657-1660</pages>
+            <year>2016</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2016.7496075</ee>
+            <crossref>conf/siu/2016</crossref>
+            <url>db/conf/siu/siu2016.html#TomakK16</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/DoganK16" mdate="2017-11-08">
+            <author pid="158/1778">Ramazan Ozgur Dogan</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Remote patient monitoring and Electronic Health Record system based on web services.</title>
+            <pages>1785-1788</pages>
+            <year>2016</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2016.7496107</ee>
+            <crossref>conf/siu/2016</crossref>
+            <url>db/conf/siu/siu2016.html#DoganK16</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/TureK16" mdate="2017-11-08">
+            <author pid="202/7602">Hayati Ture</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Rule based elimination of regions of interest in pectoral muscle on mammograms.</title>
+            <pages>1905-1908</pages>
+            <year>2016</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2016.7496137</ee>
+            <crossref>conf/siu/2016</crossref>
+            <url>db/conf/siu/siu2016.html#TureK16</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/KayikciogluAK16" mdate="2017-11-08">
+            <author pid="190/9103">Ilknur Kayikçioglu</author>
+            <author pid="190/9072">Fulya Akdeniz</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Wigner-Ville distribution based ECG arrhythmia detection for telemedicine applications.</title>
+            <pages>2045-2048</pages>
+            <year>2016</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2016.7496172</ee>
+            <crossref>conf/siu/2016</crossref>
+            <url>db/conf/siu/siu2016.html#KayikciogluAK16</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/tsp/ErdolOSKK16" mdate="2021-10-14">
+            <author orcid="0000-0003-0646-284X" pid="190/9106">Hakan Erdol</author>
+            <author pid="190/9084">Hasan Yavuz Ozderya</author>
+            <author pid="190/9159">Cem Sisman</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <title>BER performance comparison of IEEE 802.15.6 and IEEE 802.15.4 on PHY layer.</title>
+            <pages>108-111</pages>
+            <year>2016</year>
+            <booktitle>TSP</booktitle>
+            <ee>https://doi.org/10.1109/TSP.2016.7760839</ee>
+            <crossref>conf/tsp/2016</crossref>
+            <url>db/conf/tsp/tsp2016.html#ErdolOSKK16</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/tsp/AkdenizKKK16" mdate="2021-10-14">
+            <author pid="190/9072">Fulya Akdeniz</author>
+            <author pid="190/9103">Ilknur Kayikçioglu</author>
+            <author orcid="0000-0002-0862-0525" pid="89/5546">Ismail Kaya</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Using Wigner-Ville distribution in ECG arrhythmia detection for telemedicine applications.</title>
+            <pages>409-412</pages>
+            <year>2016</year>
+            <booktitle>TSP</booktitle>
+            <ee>https://doi.org/10.1109/TSP.2016.7760908</ee>
+            <crossref>conf/tsp/2016</crossref>
+            <url>db/conf/tsp/tsp2016.html#AkdenizKKK16</url>
+        </inproceedings>
+    </r>
+    <r>
+        <article key="journals/eswa/KayikciogluME15" mdate="2017-05-26">
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <author pid="158/1081">Masoud Maleki</author>
+            <author pid="158/1237">Kubra Eroglu</author>
+            <title>Fast and accurate PLS-based classification of EEG sleep using single channel data.</title>
+            <pages>7825-7830</pages>
+            <year>2015</year>
+            <volume>42</volume>
+            <journal>Expert Syst. Appl.</journal>
+            <number>21</number>
+            <ee>https://doi.org/10.1016/j.eswa.2015.06.010</ee>
+            <url>db/journals/eswa/eswa42.html#KayikciogluME15</url>
+        </article>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/ManafK15" mdate="2020-02-09">
+            <author pid="158/1572">Nader Vahdani Manaf</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Comparison of time difference variations of photoplethysmographic signals with different
+                wavelengths.
+            </title>
+            <pages>1134-1137</pages>
+            <year>2015</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2015.7130035</ee>
+            <crossref>conf/siu/2015</crossref>
+            <url>db/conf/siu/siu2015.html#ManafK15</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/MalekiMK15" mdate="2020-02-09">
+            <author pid="158/1081">Masoud Maleki</author>
+            <author pid="158/1197">Negin Manshouri</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>A novel brain-computer interface based on the gaze rotating vane independent EEG.</title>
+            <pages>1204-1207</pages>
+            <year>2015</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2015.7130052</ee>
+            <crossref>conf/siu/2015</crossref>
+            <url>db/conf/siu/siu2015.html#MalekiMK15</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/TureK15" mdate="2020-02-09">
+            <author pid="202/7602">Hayati Ture</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Classification of salient dense regions in mammograms based on the minimum nesting depth approach.
+            </title>
+            <pages>2174-2177</pages>
+            <year>2015</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2015.7130304</ee>
+            <crossref>conf/siu/2015</crossref>
+            <url>db/conf/siu/siu2015.html#TureK15</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/KetenciKG15" mdate="2020-02-09">
+            <author pid="138/2811">Seniha Ketenci</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <author pid="33/2609">Ali Gangal</author>
+            <title>Recognition of sign language numbers via electromyography signals.</title>
+            <pages>2593-2596</pages>
+            <year>2015</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2015.7130416</ee>
+            <crossref>conf/siu/2015</crossref>
+            <url>db/conf/siu/siu2015.html#KetenciKG15</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/AydemirK14" mdate="2017-05-24">
+            <author pid="13/8460">Onder Aydemir</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Classification of electroencephalogram signals based on cursor movement imagery.</title>
+            <pages>858-861</pages>
+            <year>2014</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2014.6830365</ee>
+            <crossref>conf/siu/2014</crossref>
+            <url>db/conf/siu/siu2014.html#AydemirK14</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/TuranK14" mdate="2017-05-24">
+            <author pid="158/0573">Ahmet Turan</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Neuronal motifs of long term and short term memory functions.</title>
+            <pages>1255-1258</pages>
+            <year>2014</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2014.6830464</ee>
+            <crossref>conf/siu/2014</crossref>
+            <url>db/conf/siu/siu2014.html#TuranK14</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/TuranK14a" mdate="2017-05-24">
+            <author pid="158/0573">Ahmet Turan</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Effect to long term and short term memory behaviour of structural changes in dendritic spine.</title>
+            <pages>1616-1619</pages>
+            <year>2014</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2014.6830554</ee>
+            <crossref>conf/siu/2014</crossref>
+            <url>db/conf/siu/siu2014.html#TuranK14a</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/YilmazKK14" mdate="2020-03-27">
+            <author orcid="0000-0002-3712-7086" pid="15/7173">Ercument Yilmaz</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <author pid="125/3078">Saadettin Kayipmaz</author>
+            <title>Experimental comparison of different noise reduction techniques on Cone Beam Computed Tomography
+                images.
+            </title>
+            <pages>2086-2089</pages>
+            <year>2014</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2014.6830672</ee>
+            <crossref>conf/siu/2014</crossref>
+            <url>db/conf/siu/siu2014.html#YilmazKK14</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/ManafK14" mdate="2017-05-24">
+            <author pid="158/1572">Nader Vahdani Manaf</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Time difference analysis of two-wavelength photoplethysmograph signals.</title>
+            <pages>2241-2244</pages>
+            <year>2014</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2014.6830711</ee>
+            <crossref>conf/siu/2014</crossref>
+            <url>db/conf/siu/siu2014.html#ManafK14</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/AydemirK13a" mdate="2017-05-24">
+            <author pid="13/8460">Onder Aydemir</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Deciding the appropriate Mother Wavelet for extract features from brain computer interface signals.
+            </title>
+            <pages>1-4</pages>
+            <year>2013</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2013.6531216</ee>
+            <crossref>conf/siu/2013</crossref>
+            <url>db/conf/siu/siu2013.html#AydemirK13a</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/ErogluMK13" mdate="2017-05-24">
+            <author pid="158/1237">Kubra Eroglu</author>
+            <author pid="158/1081">Masoud Maleki</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Fast and high accuracy classification of sleep EEG using PLSR method.</title>
+            <pages>1-4</pages>
+            <year>2013</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2013.6531317</ee>
+            <crossref>conf/siu/2013</crossref>
+            <url>db/conf/siu/siu2013.html#ErogluMK13</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/MalekiEAMK13" mdate="2017-05-24">
+            <author pid="158/1081">Masoud Maleki</author>
+            <author pid="158/1237">Kubra Eroglu</author>
+            <author pid="13/8460">Onder Aydemir</author>
+            <author pid="158/1197">Negin Manshoori</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>A new method for selection optimum k value in k-NN classification algorithm.</title>
+            <pages>1-4</pages>
+            <year>2013</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2013.6531324</ee>
+            <crossref>conf/siu/2013</crossref>
+            <url>db/conf/siu/siu2013.html#MalekiEAMK13</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/PourzareAK12" mdate="2017-05-24">
+            <author pid="121/0724">Shahin Pourzare</author>
+            <author pid="13/8460">Onder Aydemir</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Classification of EEG signals recorded during in facial movements for human-machine interaction.
+            </title>
+            <pages>1-4</pages>
+            <year>2012</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2012.6204781</ee>
+            <crossref>conf/siu/2012</crossref>
+            <url>db/conf/siu/siu2012.html#PourzareAK12</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/siu/TuranK12" mdate="2017-05-24">
+            <author pid="158/0573">Ahmet Turan</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Long-term and short-term memory functions of neuronal motifs.</title>
+            <pages>1-4</pages>
+            <year>2012</year>
+            <booktitle>SIU</booktitle>
+            <ee>https://doi.org/10.1109/SIU.2012.6204790</ee>
+            <crossref>conf/siu/2012</crossref>
+            <url>db/conf/siu/siu2012.html#TuranK12</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/tsp/PourzareAK12" mdate="2017-05-21">
+            <author pid="121/0724">Shahin Pourzare</author>
+            <author pid="13/8460">Onder Aydemir</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Classification of various facial movement artifacts in EEG signals.</title>
+            <pages>529-533</pages>
+            <year>2012</year>
+            <booktitle>TSP</booktitle>
+            <ee>https://doi.org/10.1109/TSP.2012.6256351</ee>
+            <crossref>conf/tsp/2012</crossref>
+            <url>db/conf/tsp/tsp2012.html#PourzareAK12</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/tsp/AydemirOK11" mdate="2020-11-25">
+            <author pid="13/8460">Onder Aydemir</author>
+            <author orcid="0000-0002-8535-3088" pid="153/4104">Mehmet Öztürk</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>Performance evaluation of five classification algorithms in low-dimensional feature vectors extracted
+                from EEG signals.
+            </title>
+            <pages>403-407</pages>
+            <year>2011</year>
+            <booktitle>TSP</booktitle>
+            <ee>https://doi.org/10.1109/TSP.2011.6043701</ee>
+            <crossref>conf/tsp/2011</crossref>
+            <url>db/conf/tsp/tsp2011.html#AydemirOK11</url>
+        </inproceedings>
+    </r>
+    <r>
+        <article key="journals/jms/KoseSGIK10" mdate="2020-06-08">
+            <author pid="53/7041">Cemal Köse</author>
+            <author pid="84/7409">Ugur Sevik</author>
+            <author pid="17/7410">Okyay Gençalioglu</author>
+            <author orcid="0000-0001-9298-7057" pid="15/1281">Cevat Ikibas</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <title>A Statistical Segmentation Method for Measuring Age-Related Macular Degeneration in Retinal Fundus
+                Images.
+            </title>
+            <pages>1-13</pages>
+            <year>2010</year>
+            <volume>34</volume>
+            <journal>J. Medical Syst.</journal>
+            <number>1</number>
+            <ee>https://doi.org/10.1007/s10916-008-9210-4</ee>
+            <ee>https://www.wikidata.org/entity/Q43146396</ee>
+            <url>db/journals/jms/jms34.html#KoseSGIK10</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/prl/KayikciogluA10" mdate="2020-02-22">
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <author pid="13/8460">Onder Aydemir</author>
+            <title>A polynomial fitting and k-NN based approach for improving classification of motor imagery BCI
+                data.
+            </title>
+            <pages>1207-1215</pages>
+            <year>2010</year>
+            <volume>31</volume>
+            <journal>Pattern Recognit. Lett.</journal>
+            <number>11</number>
+            <ee>https://doi.org/10.1016/j.patrec.2010.04.009</ee>
+            <url>db/journals/prl/prl31.html#KayikciogluA10</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/spic/GangalKD04" mdate="2020-02-24">
+            <author pid="33/2609">Ali Gangal</author>
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <author pid="36/6445">Bekir Dizdaroglu</author>
+            <title>An improved motion-compensated restoration method for damaged color motion picture films.</title>
+            <pages>353-368</pages>
+            <year>2004</year>
+            <volume>19</volume>
+            <journal>Signal Process. Image Commun.</journal>
+            <number>4</number>
+            <ee>https://doi.org/10.1016/j.image.2004.01.001</ee>
+            <url>db/journals/spic/spic19.html#GangalKD04</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/prl/KayikciogluGTK02" mdate="2020-02-22">
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <author pid="33/2609">Ali Gangal</author>
+            <author pid="61/2643">Mehmet Turhal</author>
+            <author pid="53/7041">Cemal Köse</author>
+            <title>A surface-based method for detection of coronary vessel boundaries in poor quality X-ray angiogram
+                images.
+            </title>
+            <pages>783-802</pages>
+            <year>2002</year>
+            <volume>23</volume>
+            <journal>Pattern Recognit. Lett.</journal>
+            <number>7</number>
+            <ee>https://doi.org/10.1016/S0167-8655(01)00156-8</ee>
+            <url>db/journals/prl/prl23.html#KayikciogluGTK02</url>
+        </article>
+    </r>
+    <r>
+        <article key="journals/prl/KayikciogluGT01" mdate="2020-02-22">
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <author pid="33/2609">Ali Gangal</author>
+            <author pid="61/2643">Mehmet Turhal</author>
+            <title>Reconstructing coronary arterial segments from three projection boundaries.</title>
+            <pages>611-624</pages>
+            <year>2001</year>
+            <volume>22</volume>
+            <journal>Pattern Recognit. Lett.</journal>
+            <number>6/7</number>
+            <url>db/journals/prl/prl22.html#KayikciogluGT01</url>
+            <ee>https://doi.org/10.1016/S0167-8655(01)00013-7</ee>
+        </article>
+    </r>
+    <r>
+        <article key="journals/prl/KayikciogluGO00" mdate="2020-02-22">
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <author pid="33/2609">Ali Gangal</author>
+            <author pid="81/3638">Mahmut Ozer</author>
+            <title>Reconstructing ellipsoids from three projection contours.</title>
+            <pages>959-968</pages>
+            <year>2000</year>
+            <volume>21</volume>
+            <journal>Pattern Recognit. Lett.</journal>
+            <number>11</number>
+            <ee>https://doi.org/10.1016/S0167-8655(00)00055-6</ee>
+            <url>db/journals/prl/prl21.html#KayikciogluGO00</url>
+        </article>
+    </r>
+    <r>
+        <inproceedings key="conf/cbms/KayikciogluM93" mdate="2017-05-23">
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <author pid="05/1193">Sunanda Mitra</author>
+            <title>A new method for estimating dimensions and 3-D reconstruction of coronary arterial trees from biplane
+                angiograms.
+            </title>
+            <pages>153-158</pages>
+            <year>1993</year>
+            <booktitle>CBMS</booktitle>
+            <ee>https://doi.org/10.1109/CBMS.1993.262974</ee>
+            <crossref>conf/cbms/1993</crossref>
+            <url>db/conf/cbms/cbms1993.html#KayikciogluM93</url>
+        </inproceedings>
+    </r>
+    <r>
+        <inproceedings key="conf/cbms/KayikciogluM92" mdate="2017-05-23">
+            <author pid="09/131">Temel Kayikçioglu</author>
+            <author pid="05/1193">Sunanda Mitra</author>
+            <title>Unique determination of shape and area of coronary arterial cross-section from biplane angiograms.
+            </title>
+            <pages>596-603</pages>
+            <year>1992</year>
+            <booktitle>CBMS</booktitle>
+            <ee>https://doi.org/10.1109/CBMS.1992.245022</ee>
+            <crossref>conf/cbms/1992</crossref>
+            <url>db/conf/cbms/cbms1992.html#KayikciogluM92</url>
+        </inproceedings>
+    </r>
+    <coauthors n="44" nc="2">
+        <co c="0">
+            <na f="a/Akdeniz:Fulya" pid="190/9072">Fulya Akdeniz</na>
+        </co>
+        <co c="0">
+            <na f="a/Altas:Ismail_H=" pid="97/7482">Ismail H. Altas</na>
+        </co>
+        <co c="0">
+            <na f="a/Aydemir:Onder" pid="13/8460">Onder Aydemir</na>
+        </co>
+        <co c="0">
+            <na f="b/Bayrak:Coskun" pid="12/5678">Coskun Bayrak</na>
+        </co>
+        <co c="0">
+            <na f="b/Baysal:Yesim_Aysel" pid="279/1844">Yesim Aysel Baysal</na>
+        </co>
+        <co c="0">
+            <na f="b/Bozyel:Ibrahim" pid="267/6214">Ibrahim Bozyel</na>
+        </co>
+        <co c="0">
+            <na f="d/Dizdaroglu:Bekir" pid="36/6445">Bekir Dizdaroglu</na>
+        </co>
+        <co c="0">
+            <na f="d/Dogan:Hulya" pid="126/9533">Hulya Dogan</na>
+        </co>
+        <co c="0">
+            <na f="d/Dogan:Ramazan_Ozgur" pid="158/1778">Ramazan Ozgur Dogan</na>
+        </co>
+        <co c="0">
+            <na f="e/Erdol:Hakan" pid="190/9106">Hakan Erdol</na>
+        </co>
+        <co c="0">
+            <na f="e/Eroglu:Kubra" pid="158/1237">Kubra Eroglu</na>
+        </co>
+        <co c="0">
+            <na f="g/Gangal:Ali" pid="33/2609">Ali Gangal</na>
+        </co>
+        <co c="0">
+            <na f="g/Gen=ccedil=alioglu:Okyay" pid="17/7410">Okyay Gençalioglu</na>
+        </co>
+        <co c="0">
+            <na f="g/Gokcen:Dincer" pid="249/2682">Dincer Gokcen</na>
+        </co>
+        <co c="0">
+            <na f="i/Ikibas:Cevat" pid="15/1281">Cevat Ikibas</na>
+        </co>
+        <co c="0">
+            <na f="k/Kaya:Ismail" pid="89/5546">Ismail Kaya</na>
+        </co>
+        <co c="0">
+            <na f="k/Kayik=ccedil=ioglu:Ilknur" pid="190/9103">Ilknur Kayikçioglu</na>
+        </co>
+        <co c="1">
+            <na f="k/Kayipmaz:Saadettin" pid="125/3078">Saadettin Kayipmaz</na>
+        </co>
+        <co c="0">
+            <na f="k/Ketenci:Seniha" pid="138/2811">Seniha Ketenci</na>
+        </co>
+        <co c="0">
+            <na f="k/K=ouml=se:Cemal" pid="53/7041">Cemal Köse</na>
+        </co>
+        <co c="0">
+            <na f="k/Kurt:Pinar" pid="202/7453">Pinar Kurt</na>
+        </co>
+        <co c="0">
+            <na f="m/Maleki:Masoud" pid="158/1081">Masoud Maleki</na>
+        </co>
+        <co c="-1">
+            <na f="m/Manaf:Nader_Vahdani" pid="158/1572">Nader Vahdani Manaf</na>
+        </co>
+        <co c="0" n="2">
+            <na f="m/Manshoori:Negin" pid="158/1197">Negin Manshoori</na>
+            <na>Negin Manshouri</na>
+        </co>
+        <co c="-1">
+            <na f="m/Manshour:Negin" pid="208/1169">Negin Manshour</na>
+        </co>
+        <co c="0">
+            <na f="m/Melek:Mesut" pid="280/9720">Mesut Melek</na>
+        </co>
+        <co c="-1">
+            <na f="m/Mitra:Sunanda" pid="05/1193">Sunanda Mitra</na>
+        </co>
+        <co c="0">
+            <na f="o/Osman:Onur" pid="65/5731">Onur Osman</na>
+        </co>
+        <co c="0">
+            <na f="=/=Ouml=zcan:Z=uuml=beyir" pid="202/7411">Zübeyir Özcan</na>
+        </co>
+        <co c="0">
+            <na f="o/Ozderya:Hasan_Yavuz" pid="190/9084">Hasan Yavuz Ozderya</na>
+        </co>
+        <co c="0">
+            <na f="o/Ozer:Mahmut" pid="81/3638">Mahmut Ozer</na>
+        </co>
+        <co c="0">
+            <na f="=/=Ouml=zt=uuml=rk:Mehmet" pid="153/4104">Mehmet Öztürk</na>
+        </co>
+        <co c="0">
+            <na f="p/Pourzare:Shahin" pid="121/0724">Shahin Pourzare</na>
+        </co>
+        <co c="0">
+            <na f="s/Saka:Kubra" pid="190/9148">Kubra Saka</na>
+        </co>
+        <co c="0">
+            <na f="s/Sevik:Ugur" pid="84/7409">Ugur Sevik</na>
+        </co>
+        <co c="0">
+            <na f="s/Sisman:Cem" pid="190/9159">Cem Sisman</na>
+        </co>
+        <co c="-1">
+            <na f="t/Tomak:Ozgur" pid="202/7583">Ozgur Tomak</na>
+        </co>
+        <co c="-1">
+            <na f="t/Turan:Ahmet" pid="158/0573">Ahmet Turan</na>
+        </co>
+        <co c="-1">
+            <na f="t/Ture:Hayati" pid="202/7602">Hayati Ture</na>
+        </co>
+        <co c="0">
+            <na f="t/Turhal:Mehmet" pid="61/2643">Mehmet Turhal</na>
+        </co>
+        <co c="0">
+            <na f="u/Ulutas:G=uuml=zin" pid="34/7657">Güzin Ulutas</na>
+        </co>
+        <co c="0">
+            <na f="y/Yagci:Yavuz" pid="202/7449">Yavuz Yagci</na>
+        </co>
+        <co c="0">
+            <na f="y/Yildirim:=Ouml=mer" pid="297/6606">Ömer Yildirim</na>
+        </co>
+        <co c="1">
+            <na f="y/Yilmaz:Ercument" pid="15/7173">Ercument Yilmaz</na>
+        </co>
+    </coauthors>
+</dblpperson>
