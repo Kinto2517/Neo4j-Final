@@ -16,8 +16,8 @@ def researchers(name, lname):
 
 @app.route("/xmlveri", methods=['GET','POST'])
 def xmlveri():
-    gdb = GraphDatabase.driver(uri="neo4j+s://24ab16aa.databases.neo4j.io",
-                               auth=("neo4j", "G6tmsnc3xhwupcL5RwPq7tRXBpB5wgUnyWR3ch4Tfws"))
+    gdb = GraphDatabase.driver(uri="neo4j+s://d0e5fa0d.databases.neo4j.io:7687",
+                               auth=("neo4j", "seE64dMcF-aJ-Nv5bQqNidDzFfN4OrIolYgGm6yM2yY"))
     session = gdb.session()
 
     xaadı = ""
@@ -210,8 +210,8 @@ def xmlveri():
 
 @app.route("/genelsonuc", methods=['GET', 'POST'])
 def genelsonuc():
-    gdb = GraphDatabase.driver(uri="neo4j+s://24ab16aa.databases.neo4j.io",
-                               auth=("neo4j", "G6tmsnc3xhwupcL5RwPq7tRXBpB5wgUnyWR3ch4Tfws"))
+    gdb = GraphDatabase.driver(uri="neo4j+s://d0e5fa0d.databases.neo4j.io:7687",
+                               auth=("neo4j", "seE64dMcF-aJ-Nv5bQqNidDzFfN4OrIolYgGm6yM2yY"))
     session = gdb.session()
     nodes = session.run("MATCH p = (a)-[r:YAYINLAR]->(b) RETURN a,b")
     tmpaadı = []
@@ -543,8 +543,8 @@ def genelsonuc():
 @login_required
 def neodb1():
     form = DataForm1()
-    gdb = GraphDatabase.driver(uri="neo4j+s://24ab16aa.databases.neo4j.io",
-                               auth=("neo4j", "G6tmsnc3xhwupcL5RwPq7tRXBpB5wgUnyWR3ch4Tfws"))
+    gdb = GraphDatabase.driver(uri="neo4j+s://d0e5fa0d.databases.neo4j.io:7687",
+                               auth=("neo4j", "seE64dMcF-aJ-Nv5bQqNidDzFfN4OrIolYgGm6yM2yY"))
     session = gdb.session()
     error = None
     if form.validate_on_submit():
@@ -579,8 +579,8 @@ def neodb1():
 @login_required
 def neodb():
     form = DataForm()
-    gdb1 = GraphDatabase.driver(uri="neo4j+s://24ab16aa.databases.neo4j.io",
-                                auth=("neo4j", "G6tmsnc3xhwupcL5RwPq7tRXBpB5wgUnyWR3ch4Tfws"))
+    gdb1 = GraphDatabase.driver(uri="neo4j+s://d0e5fa0d.databases.neo4j.io:7687",
+                                auth=("neo4j", "seE64dMcF-aJ-Nv5bQqNidDzFfN4OrIolYgGm6yM2yY"))
     session = gdb1.session()
     error = None
     if form.validate_on_submit():
